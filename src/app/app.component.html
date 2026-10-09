@@ -1,0 +1,246 @@
+<div id="preloader" [class.done]="ds.loaded()"><div class="loader-ring"></div></div>
+<div id="progressBar" [style.width.%]="progress()"></div>
+<button id="toTop" [class.show]="showTop()" (click)="toTop()" aria-label="Back to top"><i class="fa-solid fa-arrow-up"></i></button>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top shadow-sm py-3" [class.scrolled]="scrolled()">
+  <div class="container">
+    <a class="navbar-brand d-flex align-items-center gap-2 fw-bold text-dark fs-4" href="#home">
+      <div class="bg-trust-primary text-white p-2 rounded-circle d-flex align-items-center justify-content-center brand-icon" style="width:40px;height:40px"><i class="fa-solid fa-hands-holding-child"></i></div>
+      <span class="brand-text">{{ t()['brand']?.first }} <span class="text-trust-primary">{{ t()['brand']?.second }}</span></span>
+    </a>
+    <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto align-items-lg-center gap-lg-3 mb-2 mb-lg-0">
+        @for (l of navLinks; track l[0]) {
+          <li class="nav-item"><a class="nav-link fw-medium" [class.active]="active() === l[0]" [href]="'#' + l[0]" (click)="closeNav()">{{ l[1] }}</a></li>
+        }
+        <li class="nav-item mt-3 mt-lg-0"><a href="#donate-section" (click)="closeNav()" class="btn btn-gold btn-shine pulse rounded-pill px-4 py-2 fw-semibold text-decoration-none d-inline-flex align-items-center justify-content-center"><i class="fa-solid fa-heart me-2 text-danger"></i>દાન કરો અને QR</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<header id="home" class="hero-section text-white" [style.--hero]="heroUrl()">
+  <div class="blob b1"></div><div class="blob b2"></div>
+  <div class="container position-relative">
+    <div class="col-lg-8 text-center text-lg-start mx-auto mx-lg-0">
+      <span class="badge bg-warning text-dark px-3 py-2 rounded-pill mb-3 fw-semibold text-uppercase">{{ t()['badge'] }}</span>
+      <h1 class="display-3 fw-bold mb-3">{{ t()['heroTitle'] }}</h1>
+      <h4 class="mb-4">સાથે મળીને આપીએ <span class="word-rotator">{{ word() }}</span></h4>
+      <p class="lead mb-5 opacity-75">{{ t()['heroSubtitle'] }}</p>
+      <div class="d-flex flex-column flex-sm-row justify-content-center justify-content-lg-start gap-3">
+        <a href="#donate-section" class="btn btn-gold btn-shine btn-lg rounded-pill px-5 py-3 fw-semibold">QR કોડ દ્વારા દાન કરો</a>
+        <a href="#donors-report" class="btn btn-outline-light btn-lg rounded-pill px-5 py-3 fw-semibold">વર્ષ-વાર અહેવાલ જુઓ</a>
+      </div>
+    </div>
+  </div>
+  <a href="#about" class="scroll-hint text-white fs-4" aria-label="Scroll down"><i class="fa-solid fa-chevron-down"></i></a>
+</header>
+
+<section class="stats-band" aria-label="સારાંશ"><div class="container"><div class="row g-3 text-center">
+  <div class="col-6 col-lg-3 reveal" data-anim="up" appReveal><div class="stat"><div class="num" [appCount]="ds.donors().length">0</div><div class="lbl">કુલ દાતાઓ</div></div></div>
+  <div class="col-6 col-lg-3 reveal" data-anim="up" appReveal style="--d:.1s"><div class="stat"><div class="num" [appCount]="totalDonated()" prefix="₹">₹0</div><div class="lbl">કુલ એકત્ર ફંડ</div></div></div>
+  <div class="col-6 col-lg-3 reveal" data-anim="up" appReveal style="--d:.2s"><div class="stat"><div class="num" [appCount]="totalSpent()" prefix="₹">₹0</div><div class="lbl">કુલ થયેલ ખર્ચ</div></div></div>
+  <div class="col-6 col-lg-3 reveal" data-anim="up" appReveal style="--d:.3s"><div class="stat"><div class="num" [appCount]="totalDonated() - totalSpent()" prefix="₹">₹0</div><div class="lbl">ચોખ્ખી બાકી રકમ</div></div></div>
+</div></div></section>
+
+<section id="about" class="py-5 bg-white"><div class="container py-lg-4"><div class="row align-items-center g-4 g-lg-5">
+  <div class="col-lg-6 reveal" data-anim="left" appReveal>
+    <div class="position-relative">
+      <div class="img-fx shadow-lg" appReveal><img [src]="assets(t()['images']?.about)" alt="about" width="600" height="450" (error)="hideImg($event)"></div>
+      <div class="position-absolute bottom-0 end-0 bg-white p-4 rounded-4 shadow m-3 d-none d-sm-block border-start border-5 border-warning float-badge">
+        <h3 class="fw-bold text-trust-primary mb-1"><span [appCount]="100">0</span>%</h3>
+        <p class="text-muted mb-0 small">{{ t()['about']?.badgeText }}</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-6 reveal" data-anim="right" appReveal>
+    <span class="text-trust-primary fw-semibold text-uppercase small">{{ t()['about']?.label }}</span>
+    <h2 class="display-5 fw-bold mb-4 mt-1">{{ t()['about']?.title }}</h2>
+    <p class="text-muted mb-4">{{ t()['about']?.text }}</p>
+    <div class="row g-4">
+      <div class="col-md-6 reveal" data-anim="up" appReveal><div class="p-3 bg-light rounded-3 h-100 border-start border-3 border-trust-primary lift">
+        <div class="text-trust-primary fs-4 mb-2"><i class="fa-solid fa-file-invoice-dollar"></i></div><h5 class="fw-bold">વર્ષ-વાર ખાતાવહી</h5><p class="small text-muted mb-0">નાણાકીય વર્ષ મુજબ દાન અને ખર્ચ તરત ફિલ્ટર કરો.</p></div></div>
+      <div class="col-md-6 reveal" data-anim="up" appReveal><div class="p-3 bg-light rounded-3 h-100 border-start border-3 border-warning lift">
+        <div class="text-trust-primary fs-4 mb-2"><i class="fa-solid fa-download"></i></div><h5 class="fw-bold">ડાઉનલોડ કરી શકાય તેવા PDF</h5><p class="small text-muted mb-0">ઓડિટ અને અંગત રેકોર્ડ માટે ફોર્મેટ કરેલા અહેવાલ બનાવો.</p></div></div>
+    </div>
+  </div>
+</div></div></section>
+
+@if (t()['gallery']?.length) {
+<section id="gallery" class="py-5 bg-light"><div class="container py-lg-4">
+  <div class="text-center mb-5 reveal section-title" data-anim="up" appReveal><span class="text-trust-primary fw-semibold text-uppercase small">ચિત્રોમાં અમારું કાર્ય</span><h2 class="display-5 fw-bold mt-1">ગેલેરી</h2><span class="bar"></span></div>
+  <div class="row g-3 g-md-4">
+    @for (g of t()['gallery']; track g.image; let i = $index) {
+      <div class="col-12 col-sm-6 col-lg-4 reveal" data-anim="up" appReveal [style.--d]="(i * .12) + 's'">
+        <div class="img-fx gal shadow-sm" appReveal><img [src]="assets(g.image)" [alt]="g.caption" loading="lazy" width="600" height="400" (error)="hideImg($event)"><div class="cap">{{ g.caption }}</div></div>
+      </div>
+    }
+  </div>
+</div></section>
+}
+
+<section id="future-plans" class="py-5 bg-light"><div class="container py-lg-4">
+  <div class="text-center mx-auto mb-5 reveal section-title" data-anim="up" appReveal style="max-width:700px">
+    <span class="text-trust-primary fw-semibold text-uppercase small">રોડમેપ અને દૃષ્ટિ</span>
+    <h2 class="display-5 fw-bold mt-1">અમારી ભવિષ્યની યોજનાઓ અને આગામી પ્રોજેક્ટ</h2><span class="bar"></span>
+    <p class="text-muted mt-3">આગામી નાણાકીય વર્ષો માટે આયોજિત ગ્રામ્ય માળખાકીય અને કલ્યાણ કાર્યો.</p>
+  </div>
+  <div class="row justify-content-center"><div class="col-lg-8">
+    <div class="bg-white p-4 p-md-5 rounded-4 shadow-sm reveal" data-anim="zoom" appReveal>
+      @for (p of t()['futurePlans']; track p.title; let i = $index; let last = $last) {
+        <div class="timeline-item reveal" [class.mb-0]="last" data-anim="up" appReveal [style.--d]="(i * .15) + 's'">
+          <div class="timeline-dot"></div>
+          <span class="badge mb-1" [class]="i % 2 ? 'bg-warning text-dark' : 'bg-trust-primary'">{{ p.period }}</span>
+          <h4 class="fw-bold">{{ p.title }}</h4><p class="text-muted small mb-0">{{ p.desc }}</p>
+        </div>
+      } @empty { <div class="text-center py-4 text-muted">{{ ds.error() ? 'ડેટા લોડ થઈ શક્યો નથી.' : 'ભવિષ્યની યોજનાઓ લોડ થઈ રહી છે...' }}</div> }
+    </div>
+  </div></div>
+</div></section>
+
+<section id="donors-report" class="py-5 bg-white"><div class="container py-lg-4">
+  <div class="d-flex flex-column flex-md-row justify-content-between align-items-center mb-4 gap-3 reveal" data-anim="up" appReveal>
+    <div><span class="text-trust-primary fw-semibold text-uppercase small">પારદર્શિતા ખાતાવહી</span><h2 class="display-5 fw-bold mt-1 mb-0">દાતા અહેવાલ</h2></div>
+    <div class="d-flex flex-wrap gap-2 align-items-center justify-content-end w-100 w-md-auto">
+      <div class="d-flex align-items-center gap-2"><label class="small fw-bold text-muted text-nowrap">નાણાકીય વર્ષ:</label>
+        <select class="form-select rounded-pill px-3" (change)="setDYear($any($event.target).value)">
+          <option value="all" [selected]="dYear() === 'all'">બધા વર્ષ</option>
+          @for (y of years(); track y) { <option [value]="y" [selected]="y === dYear()">{{ y }}</option> }
+        </select></div>
+      <input type="text" id="donorSearch" class="form-control rounded-pill px-3" placeholder="દાતા અથવા ગામ શોધો..." (input)="setQ($any($event.target).value)">
+      <button class="btn btn-outline-secondary rounded-pill px-3 fw-semibold text-nowrap" (click)="downloadCsv('donors')"><i class="fa-solid fa-file-csv me-1"></i>CSV</button>
+      <button class="btn btn-trust btn-shine rounded-pill px-4 fw-semibold text-nowrap" (click)="downloadPdf('donors')"><i class="fa-solid fa-file-pdf me-2"></i>PDF ડાઉનલોડ</button>
+    </div>
+  </div>
+  <div class="row g-4 mb-4">
+    <div class="col-md-6 reveal" data-anim="left" appReveal><div class="p-4 bg-light rounded-4 shadow-sm border-start border-4 border-trust-primary lift"><span class="text-muted small fw-semibold">કુલ દાતાઓ (ફિલ્ટર મુજબ)</span><h3 class="fw-bold text-dark mt-1 mb-0" [appCount]="dRows().length">0</h3></div></div>
+    <div class="col-md-6 reveal" data-anim="right" appReveal><div class="p-4 bg-light rounded-4 shadow-sm border-start border-4 border-warning lift"><span class="text-muted small fw-semibold">કુલ દાન રકમ (ફિલ્ટર મુજબ)</span><h3 class="fw-bold text-trust-primary mt-1 mb-0" [appCount]="dTotal()" prefix="₹">₹0</h3></div></div>
+  </div>
+  <div class="card border-0 shadow-sm rounded-4 overflow-hidden mb-3 reveal" data-anim="up" appReveal>
+    <div class="table-hint"><i class="fa-solid fa-arrows-left-right me-1"></i>બધા કૉલમ જોવા ટેબલ સ્વાઇપ કરો</div>
+    <div class="table-responsive"><table class="table table-hover align-middle mb-0 resp">
+      <thead class="table-dark text-uppercase small"><tr><th class="py-3 ps-4">ક્રમ</th><th>દાતાનું નામ</th><th>દાનનો પ્રકાર</th><th>ગામ / શહેર</th><th>રકમ (₹)</th><th>તારીખ</th>@if (!privacy().hideReceipt) { <th class="pe-4">રસીદ નં.</th> }</tr></thead>
+      <tbody>
+        @for (d of dPart(); track trackD($index, d); let i = $index) {
+          <tr class="row-in" [style.animation-delay]="(i * .04) + 's'">
+            <td class="ps-4 text-muted small">{{ (dPage() - 1) * dSize() + i + 1 }}</td>
+            <td class="fw-semibold text-dark">{{ dName(d) }}</td>
+            <td><span class="badge" [class]="badge(d.type)">{{ ty(d.type) }}</span></td>
+            <td><i class="fa-solid fa-location-dot text-muted me-1 small"></i>{{ dVillage(d) }}</td>
+            <td class="text-trust-primary fw-bold">{{ fmt(d.amount) }}</td>
+            <td class="text-muted small">{{ d.date }}</td>
+            @if (!privacy().hideReceipt) { <td class="pe-4 text-muted small">{{ d.receiptNo || '—' }}</td> }
+          </tr>
+        } @empty { <tr><td colspan="7" class="text-center py-4 text-muted">{{ ds.error() ? 'ડેટા લોડ થઈ શક્યો નથી.' : ds.loaded() ? 'કોઈ દાતા રેકોર્ડ મળ્યો નથી.' : 'દાતા રેકોર્ડ લોડ થઈ રહ્યા છે...' }}</td></tr> }
+      </tbody></table></div>
+  </div>
+  <div class="d-flex justify-content-between px-2 flex-wrap gap-2">
+    <span class="text-muted small">@if (dRows().length) { કુલ {{ dRows().length }} માંથી {{ (dPage() - 1) * dSize() + 1 }} થી {{ (dPage() - 1) * dSize() + dPart().length }} રેકોર્ડ }</span>
+    <span class="text-trust-primary small fw-semibold">ઓડિટ થયેલ બેંક સ્ટેટમેન્ટ સાથે ચકાસાયેલ</span>
+  </div>
+  <app-pager [page]="dPage()" [total]="dRows().length" [size]="dSize()" (pageChange)="dPage.set($event)" (sizeChange)="dSize.set($event); dPage.set(1)" />
+</div></section>
+
+<section id="insights" class="py-5" style="background:#eef3f8"><div class="container py-lg-4">
+  <div class="text-center mb-5 reveal section-title" data-anim="up" appReveal><span class="text-trust-primary fw-semibold text-uppercase small">ફંડ ઝલક</span><h2 class="display-5 fw-bold mt-1">દાન અને ખર્ચનું વિભાજન</h2><span class="bar"></span></div>
+  <div class="row g-4">
+    @for (b of [{ t: 'દાન — પ્રકાર મુજબ', r: donBars(), a: 'left' }, { t: 'ખર્ચ — શ્રેણી મુજબ', r: expBars(), a: 'right' }]; track b.t) {
+      <div class="col-lg-6 reveal" [attr.data-anim]="b.a" appReveal><div class="p-4 bg-white rounded-4 shadow-sm h-100"><h5 class="fw-bold mb-4">{{ b.t }}</h5>
+        @for (x of b.r; track x.k) {
+          <div class="mb-3"><div class="d-flex justify-content-between small fw-semibold mb-1"><span>{{ x.k }}</span><span>{{ fmt(x.v) }} · {{ x.pct.toFixed(0) }}%</span></div>
+            <div class="bar-track"><div class="bar-fill" [style.width.%]="barsOn() ? x.pct : 0"></div></div></div>
+        } @empty { <p class="text-muted small mb-0">ડેટા નથી.</p> }
+      </div></div>
+    }
+  </div>
+</div></section>
+
+<section id="expense-report" class="py-5 bg-light"><div class="container py-lg-4">
+  <div class="d-flex flex-column flex-md-row justify-content-between align-items-center mb-4 gap-3 reveal" data-anim="up" appReveal>
+    <div><span class="text-trust-primary fw-semibold text-uppercase small">ફંડનો ઉપયોગ</span><h2 class="display-5 fw-bold mt-1 mb-0">ખર્ચ અહેવાલ</h2></div>
+    <div class="d-flex flex-wrap gap-2 align-items-center justify-content-end w-100 w-md-auto">
+      <div class="d-flex align-items-center gap-2"><label class="small fw-bold text-muted text-nowrap">નાણાકીય વર્ષ:</label>
+        <select class="form-select rounded-pill px-3" (change)="setEYear($any($event.target).value)">
+          <option value="all" [selected]="eYear() === 'all'">બધા વર્ષ</option>
+          @for (y of years(); track y) { <option [value]="y" [selected]="y === eYear()">{{ y }}</option> }
+        </select></div>
+      <button class="btn btn-outline-secondary rounded-pill px-3 fw-semibold text-nowrap" (click)="downloadCsv('expenses')"><i class="fa-solid fa-file-csv me-1"></i>CSV</button>
+      <button class="btn btn-dark btn-shine rounded-pill px-4 fw-semibold text-nowrap" (click)="downloadPdf('expenses')"><i class="fa-solid fa-file-pdf me-2"></i>PDF ડાઉનલોડ</button>
+    </div>
+  </div>
+  <div class="row g-4 mb-4">
+    <div class="col-md-4 reveal" data-anim="up" appReveal><div class="p-4 bg-white rounded-4 shadow-sm border-start border-4 border-trust-primary h-100 lift"><span class="text-muted small fw-semibold">કુલ એકત્ર ફંડ</span><h3 class="fw-bold text-dark mt-1 mb-0" [appCount]="collected()" prefix="₹">₹0</h3></div></div>
+    <div class="col-md-4 reveal" data-anim="up" appReveal><div class="p-4 bg-white rounded-4 shadow-sm border-start border-4 border-warning h-100 lift"><span class="text-muted small fw-semibold">કુલ થયેલ ખર્ચ</span><h3 class="fw-bold text-dark mt-1 mb-0" [appCount]="spent()" prefix="₹">₹0</h3></div></div>
+    <div class="col-md-4 reveal" data-anim="up" appReveal><div class="p-4 bg-white rounded-4 shadow-sm border-start border-4 border-success h-100 lift"><span class="text-muted small fw-semibold">ચોખ્ખી બાકી રકમ</span><h3 class="fw-bold text-success mt-1 mb-0" [appCount]="collected() - spent()" prefix="₹">₹0</h3></div></div>
+  </div>
+  <div class="card border-0 shadow-sm rounded-4 overflow-hidden reveal" data-anim="up" appReveal>
+    <div class="table-hint"><i class="fa-solid fa-arrows-left-right me-1"></i>બધા કૉલમ જોવા ટેબલ સ્વાઇપ કરો</div>
+    <div class="table-responsive"><table class="table table-hover align-middle mb-0 resp">
+      <thead class="table-dark text-uppercase small"><tr><th class="py-3 ps-4">ક્રમ</th><th>વર્ણન</th><th>શ્રેણી</th><th>રકમ (₹)</th><th>તારીખ</th><th class="pe-4">વાઉચર નં.</th></tr></thead>
+      <tbody>
+        @for (e of ePart(); track trackE($index, e); let i = $index) {
+          <tr class="row-in" [style.animation-delay]="(i * .04) + 's'">
+            <td class="ps-4 text-muted small">{{ (ePage() - 1) * eSize() + i + 1 }}</td><td class="fw-semibold text-dark">{{ e.description }}</td>
+            <td><span class="badge bg-light text-dark border">{{ ty(e.category) }}</span></td><td class="text-danger fw-bold">{{ fmt(e.amount) }}</td>
+            <td class="text-muted small">{{ e.date }}</td><td class="pe-4 text-muted small">{{ e.voucherNo || '—' }}</td>
+          </tr>
+        } @empty { <tr><td colspan="6" class="text-center py-4 text-muted">{{ ds.loaded() ? 'આ નાણાકીય વર્ષ માટે કોઈ ખર્ચ રેકોર્ડ મળ્યો નથી.' : 'ખર્ચ રેકોર્ડ લોડ થઈ રહ્યા છે...' }}</td></tr> }
+      </tbody></table></div>
+  </div>
+  <app-pager [page]="ePage()" [total]="eRows().length" [size]="eSize()" (pageChange)="ePage.set($event)" (sizeChange)="eSize.set($event); ePage.set(1)" />
+</div></section>
+
+<section id="donate-section" class="py-5 bg-light border-top"><div class="container py-lg-4">
+  <div class="text-center mx-auto mb-5 reveal section-title" data-anim="up" appReveal style="max-width:700px">
+    <span class="text-trust-primary fw-semibold text-uppercase small">આપણી પહેલને ટેકો આપો</span>
+    <h2 class="display-5 fw-bold mt-1">{{ t()['name'] }}ને સહયોગ આપો અને QR કોડ ચુકવણી</h2><span class="bar"></span>
+    <p class="text-muted mt-3">નીચે આપેલા QR કોડ અથવા સીધી બેંક વિગતો દ્વારા સુરક્ષિત યોગદાન આપો.</p>
+  </div>
+  <div class="row g-4 align-items-center justify-content-center">
+    <div class="col-lg-5 reveal" data-anim="left" appReveal>
+      <div class="qr-container bg-white shadow-sm">
+        <div class="bg-white p-3 rounded-3 shadow-sm d-inline-block mb-3"><img [src]="assets(t()['images']?.qr)" alt="QR Code" width="160" height="160" class="rounded-2"></div>
+        <p class="small fw-semibold text-dark mb-1">UPI / બેંકિંગ એપથી સ્કેન કરો</p>
+        <p class="text-muted mb-2" style="font-size:.75rem">UPI ID: <span>{{ t()['upiId'] }}</span></p>
+        <button class="btn btn-outline-dark btn-sm rounded-pill px-3 mb-2" (click)="copy(t()['upiId'])"><i class="fa-solid fa-copy me-1"></i>UPI ID કૉપિ કરો</button>
+        <a class="btn btn-gold btn-sm rounded-pill px-3 text-decoration-none" [href]="upiLink()"><i class="fa-solid fa-mobile-screen me-1"></i>UPI એપથી ચૂકવો</a>
+      </div>
+    </div>
+    <div class="col-lg-6 reveal" data-anim="right" appReveal>
+      <div class="bg-white p-4 p-md-5 rounded-4 shadow-sm h-100">
+        <h4 class="fw-bold mb-3 text-trust-primary">સીધા બેંક ટ્રાન્સફરની વિગતો</h4>
+        <ul class="list-unstyled small text-muted mb-0 lh-lg">
+          @for (r of t()['bank']; track r.label) {
+            <li class="bank-row"><span><strong>{{ r.label }}:</strong> {{ r.value }}</span><button type="button" class="btn btn-sm btn-light border rounded-pill copy-btn" (click)="copy(r.value)" aria-label="કૉપિ કરો"><i class="fa-regular fa-copy"></i></button></li>
+          }
+        </ul>
+      </div>
+    </div>
+  </div>
+</div></section>
+
+<section id="contact" class="py-5 bg-white"><div class="container py-lg-4"><div class="row g-4 g-lg-5"><div class="col-lg-5 reveal" data-anim="left" appReveal>
+  <span class="text-trust-primary fw-semibold text-uppercase small">સંપર્ક કરો</span>
+  <h2 class="display-5 fw-bold mt-1 mb-3">અમે તમારી વાત સાંભળવા ઇચ્છીએ છીએ</h2>
+  <p class="text-muted mb-4">ઓડિટ, ગામ કલ્યાણ અભિયાન કે સહયોગ વિશે પ્રશ્નો છે? અમારી ટ્રસ્ટી ઓફિસનો સંપર્ક કરો.</p>
+  <div class="d-flex mb-4"><div class="bg-trust-primary text-white p-3 rounded-3 me-3 fs-5"><i class="fa-solid fa-location-dot"></i></div><div><h5 class="fw-bold mb-1">ટ્રસ્ટનું મુખ્ય કાર્યાલય</h5><p class="text-muted mb-0">{{ t()['address'] }}</p></div></div>
+  <div class="d-flex mb-4"><div class="bg-trust-primary text-white p-3 rounded-3 me-3 fs-5"><i class="fa-solid fa-envelope"></i></div><div><h5 class="fw-bold mb-1">સત્તાવાર ઇમેઇલ</h5><p class="text-muted mb-0"><a class="text-reset text-decoration-none" [href]="'mailto:' + t()['email']">{{ t()['email'] }}</a></p></div></div>
+  <div class="d-flex"><div class="bg-trust-primary text-white p-3 rounded-3 me-3 fs-5"><i class="fa-solid fa-phone"></i></div><div><h5 class="fw-bold mb-1">હેલ્પલાઇન</h5><p class="text-muted mb-0"><a class="text-reset text-decoration-none" [href]="telHref()">{{ t()['phone'] }}</a></p></div></div>
+</div></div></div></section>
+
+<footer class="bg-dark text-white pt-5 pb-4"><div class="container">
+  <div class="row g-4 g-lg-5 mb-5">
+    <div class="col-lg-4 reveal" data-anim="up" appReveal><div class="fw-bold fs-4 mb-1 brand-text">{{ t()['brand']?.first }} <span class="text-warning">{{ t()['brand']?.second }}</span></div><div class="small fst-italic mb-3" style="color:#9fb3c8;letter-spacing:.3px">{{ t()['subText'] || 'મેવાસ મુસ્લિમ સમાજ સંચાલિત' }}</div><p class="opacity-75 small">{{ t()['footerAbout'] }}</p></div>
+    <div class="col-lg-2 col-md-4 reveal" data-anim="up" appReveal><h5 class="fw-bold mb-3">ઝડપી લિંક્સ</h5><ul class="list-unstyled d-flex flex-column gap-2 small">
+      @for (l of navLinks; track l[0]) { <li><a [href]="'#' + l[0]" class="text-light opacity-75 text-decoration-none">{{ l[1] }}</a></li> }</ul></div>
+    <div class="col-lg-3 col-md-4 reveal" data-anim="up" appReveal><h5 class="fw-bold mb-3">કરમુક્તિ</h5><p class="opacity-75 small">{{ t()['taxNote'] }}</p></div>
+    <div class="col-lg-3 col-md-4 reveal" data-anim="up" appReveal><h5 class="fw-bold mb-3">સુરક્ષિત દાન</h5><p class="opacity-75 small mb-2">QR કોડ સ્કેન કરો અથવા સીધું બેંક ટ્રાન્સફર કરો.</p>
+      <a href="#donate-section" class="btn btn-outline-light btn-sm rounded-pill px-3 fw-semibold text-decoration-none">QR કોડ પર જાઓ</a></div>
+  </div>
+  <hr class="border-secondary opacity-25">
+  <div class="small opacity-75 text-center">{{ t()['copyright'] }}</div>
+</div></footer>
+
+
+@if (toast()) { <div id="toastBox" class="show" role="status">{{ toast() }}</div> }

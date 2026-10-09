@@ -1,0 +1,1163 @@
+[
+  {
+    "name": "આયશાબેન વ્હોરા",
+    "type": "Corpus",
+    "village": "લીલાપુર",
+    "amount": 2000,
+    "date": "2026-10-04",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-018"
+  },
+  {
+    "name": "ઇમરાનબેન શાહ",
+    "type": "General",
+    "village": "લીલાપુર",
+    "amount": 501,
+    "date": "2026-10-03",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-048"
+  },
+  {
+    "name": "કિરીટભાઈ જોશી",
+    "type": "Corpus",
+    "village": "શિવપુર",
+    "amount": 1500,
+    "date": "2026-10-02",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-001"
+  },
+  {
+    "name": "સલીમબેન ઘોરી",
+    "type": "Education",
+    "village": "લીલાપુર",
+    "amount": 11000,
+    "date": "2026-10-02",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-052"
+  },
+  {
+    "name": "સલીમ ઠક્કર",
+    "type": "Corpus",
+    "village": "રામપુર",
+    "amount": 1000,
+    "date": "2026-10-01",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-024"
+  },
+  {
+    "name": "ભાવેશબેન મહેતા",
+    "type": "Zakat",
+    "village": "ઘાસવાડી",
+    "amount": 300,
+    "date": "2026-09-30",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-051"
+  },
+  {
+    "name": "પ્રિયા શર્મા",
+    "type": "General",
+    "village": "લીલાપુર",
+    "amount": 750,
+    "date": "2026-09-28",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-002"
+  },
+  {
+    "name": "દિનેશ વ્હોરા",
+    "type": "Education",
+    "village": "રામપુર",
+    "amount": 750,
+    "date": "2026-09-27",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-023"
+  },
+  {
+    "name": "સીમા પરમાર",
+    "type": "Education",
+    "village": "શિવપુર",
+    "amount": 1500,
+    "date": "2026-09-24",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-032"
+  },
+  {
+    "name": "નીતાભાઈ ચૌહાણ",
+    "type": "Medical",
+    "village": "ટેકરીપુરા",
+    "amount": 5000,
+    "date": "2026-09-24",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-042"
+  },
+  {
+    "name": "કલ્પેશભાઈ વ્હોરા",
+    "type": "Medical",
+    "village": "સૂર્યગામ",
+    "amount": 1000,
+    "date": "2026-09-22",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-013"
+  },
+  {
+    "name": "નીતાબેન ઘોરી",
+    "type": "Zakat",
+    "village": "મેવાસ",
+    "amount": 300,
+    "date": "2026-09-22",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-033"
+  },
+  {
+    "name": "મહેશ શાહ",
+    "type": "CSR",
+    "village": "નદીપુર",
+    "amount": 3000,
+    "date": "2026-09-20",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-003"
+  },
+  {
+    "name": "સુરેશ વ્હોરા",
+    "type": "CSR",
+    "village": "ઘાસવાડી",
+    "amount": 11000,
+    "date": "2026-09-19",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-020"
+  },
+  {
+    "name": "કાજલ ઘોરી",
+    "type": "Medical",
+    "village": "નદીપુર",
+    "amount": 2000,
+    "date": "2026-09-17",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-059"
+  },
+  {
+    "name": "ફાતિમા મન્સૂરી",
+    "type": "Zakat",
+    "village": "સૂર્યગામ",
+    "amount": 500,
+    "date": "2026-09-15",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-004"
+  },
+  {
+    "name": "ઇમરાન શાહ",
+    "type": "Education",
+    "village": "લીલાપુર",
+    "amount": 1100,
+    "date": "2026-09-15",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-050"
+  },
+  {
+    "name": "દીપક અને સુનીતા મહેતા",
+    "type": "Medical",
+    "village": "ટેકરીપુરા",
+    "amount": 5000,
+    "date": "2026-09-10",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-005"
+  },
+  {
+    "name": "સલીમભાઈ દેસાઈ",
+    "type": "Corpus",
+    "village": "નદીપુર",
+    "amount": 750,
+    "date": "2026-08-28",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-011"
+  },
+  {
+    "name": "આયશાબેન જોશી",
+    "type": "General",
+    "village": "નદીપુર",
+    "amount": 11000,
+    "date": "2026-08-28",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-016"
+  },
+  {
+    "name": "પ્રકાશ ઘોરી",
+    "type": "CSR",
+    "village": "મેવાસ",
+    "amount": 501,
+    "date": "2026-08-19",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-028"
+  },
+  {
+    "name": "નીતાભાઈ પટેલ",
+    "type": "Corpus",
+    "village": "લીલાપુર",
+    "amount": 2000,
+    "date": "2026-08-19",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-055"
+  },
+  {
+    "name": "અહેમદભાઈ પટેલ",
+    "type": "Education",
+    "village": "ઘાસવાડી",
+    "amount": 1500,
+    "date": "2026-08-18",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-058"
+  },
+  {
+    "name": "કાજલભાઈ જોશી",
+    "type": "CSR",
+    "village": "શિવપુર",
+    "amount": 500,
+    "date": "2026-08-03",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-030"
+  },
+  {
+    "name": "આયશાબેન મન્સૂરી",
+    "type": "CSR",
+    "village": "લીલાપુર",
+    "amount": 500,
+    "date": "2026-08-03",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-039"
+  },
+  {
+    "name": "અલ્પાબેન પટેલ",
+    "type": "General",
+    "village": "લીલાપુર",
+    "amount": 501,
+    "date": "2026-08-02",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-034"
+  },
+  {
+    "name": "ભાવેશબેન દેસાઈ",
+    "type": "Zakat",
+    "village": "શિવપુર",
+    "amount": 1500,
+    "date": "2026-07-30",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-049"
+  },
+  {
+    "name": "કલ્પેશભાઈ ઠક્કર",
+    "type": "Medical",
+    "village": "શિવપુર",
+    "amount": 300,
+    "date": "2026-07-22",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-035"
+  },
+  {
+    "name": "રાજેશ શાહ",
+    "type": "General",
+    "village": "શિવપુર",
+    "amount": 2500,
+    "date": "2026-07-18",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-010"
+  },
+  {
+    "name": "હિતેશ શાહ",
+    "type": "Medical",
+    "village": "ટેકરીપુરા",
+    "amount": 2000,
+    "date": "2026-07-17",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-012"
+  },
+  {
+    "name": "કલ્પેશબેન મહેતા",
+    "type": "Zakat",
+    "village": "મેવાસ",
+    "amount": 200,
+    "date": "2026-07-17",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-019"
+  },
+  {
+    "name": "નીતાબેન વ્હોરા",
+    "type": "Medical",
+    "village": "ઘાસવાડી",
+    "amount": 500,
+    "date": "2026-07-17",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-031"
+  },
+  {
+    "name": "હિનાબેન વ્હોરા",
+    "type": "Zakat",
+    "village": "લીલાપુર",
+    "amount": 300,
+    "date": "2026-06-29",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-021"
+  },
+  {
+    "name": "હિતેશબેન પરમાર",
+    "type": "Corpus",
+    "village": "લીલાપુર",
+    "amount": 2000,
+    "date": "2026-06-22",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-007"
+  },
+  {
+    "name": "અનન્યા દેસાઈ",
+    "type": "Education",
+    "village": "ઘાસવાડી",
+    "amount": 1200,
+    "date": "2026-06-12",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-006"
+  },
+  {
+    "name": "રુકસાનાબેન દેસાઈ",
+    "type": "Education",
+    "village": "ઘાસવાડી",
+    "amount": 1500,
+    "date": "2026-06-11",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-047"
+  },
+  {
+    "name": "રુકસાના પરમાર",
+    "type": "Corpus",
+    "village": "શિવપુર",
+    "amount": 11000,
+    "date": "2026-06-09",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-022"
+  },
+  {
+    "name": "ઇમરાન ઠક્કર",
+    "type": "Zakat",
+    "village": "લીલાપુર",
+    "amount": 300,
+    "date": "2026-06-04",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-038"
+  },
+  {
+    "name": "સુરેશ જોશી",
+    "type": "Medical",
+    "village": "રામપુર",
+    "amount": 1000,
+    "date": "2026-06-02",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-017"
+  },
+  {
+    "name": "ભાવેશ મન્સૂરી",
+    "type": "CSR",
+    "village": "શિવપુર",
+    "amount": 200,
+    "date": "2026-05-29",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-046"
+  },
+  {
+    "name": "નીતા ચૌહાણ",
+    "type": "Medical",
+    "village": "ઘાસવાડી",
+    "amount": 5000,
+    "date": "2026-05-28",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-044"
+  },
+  {
+    "name": "હિનાભાઈ ચૌહાણ",
+    "type": "General",
+    "village": "મેવાસ",
+    "amount": 11000,
+    "date": "2026-05-28",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-045"
+  },
+  {
+    "name": "દિનેશ દેસાઈ",
+    "type": "Medical",
+    "village": "ઘાસવાડી",
+    "amount": 750,
+    "date": "2026-05-25",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-057"
+  },
+  {
+    "name": "રુકસાના શેખ",
+    "type": "Zakat",
+    "village": "ઘાસવાડી",
+    "amount": 1500,
+    "date": "2026-05-23",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-015"
+  },
+  {
+    "name": "હિનાભાઈ મન્સૂરી",
+    "type": "Corpus",
+    "village": "સૂર્યગામ",
+    "amount": 750,
+    "date": "2026-05-14",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-025"
+  },
+  {
+    "name": "આયશાબેન શેખ",
+    "type": "CSR",
+    "village": "નદીપુર",
+    "amount": 1100,
+    "date": "2026-05-13",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-027"
+  },
+  {
+    "name": "સીમાભાઈ દેસાઈ",
+    "type": "Medical",
+    "village": "ઘાસવાડી",
+    "amount": 500,
+    "date": "2026-05-12",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-041"
+  },
+  {
+    "name": "કલ્પેશભાઈ પટેલ",
+    "type": "General",
+    "village": "રામપુર",
+    "amount": 5000,
+    "date": "2026-05-11",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-053"
+  },
+  {
+    "name": "સુરેશભાઈ મહેતા",
+    "type": "General",
+    "village": "સૂર્યગામ",
+    "amount": 200,
+    "date": "2026-05-09",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-029"
+  },
+  {
+    "name": "સીમા પટેલ",
+    "type": "Zakat",
+    "village": "નદીપુર",
+    "amount": 2500,
+    "date": "2026-05-09",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-060"
+  },
+  {
+    "name": "હિના મન્સૂરી",
+    "type": "Education",
+    "village": "ઘાસવાડી",
+    "amount": 500,
+    "date": "2026-05-08",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-054"
+  },
+  {
+    "name": "અહેમદભાઈ ત્રિવેદી",
+    "type": "General",
+    "village": "શિવપુર",
+    "amount": 750,
+    "date": "2026-05-06",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-056"
+  },
+  {
+    "name": "ધર્મેશભાઈ ઘોરી",
+    "type": "Zakat",
+    "village": "રામપુર",
+    "amount": 300,
+    "date": "2026-05-04",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-026"
+  },
+  {
+    "name": "ધર્મેશબેન સોલંકી",
+    "type": "CSR",
+    "village": "રામપુર",
+    "amount": 11000,
+    "date": "2026-04-27",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-040"
+  },
+  {
+    "name": "ઇમરાન પટેલ",
+    "type": "Medical",
+    "village": "સૂર્યગામ",
+    "amount": 200,
+    "date": "2026-04-25",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-008"
+  },
+  {
+    "name": "નીતા શાહ",
+    "type": "Medical",
+    "village": "શિવપુર",
+    "amount": 2500,
+    "date": "2026-04-25",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-014"
+  },
+  {
+    "name": "ચિરાગબેન શેખ",
+    "type": "CSR",
+    "village": "નદીપુર",
+    "amount": 1000,
+    "date": "2026-04-24",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-043"
+  },
+  {
+    "name": "અહેમદબેન શાહ",
+    "type": "General",
+    "village": "લીલાપુર",
+    "amount": 2000,
+    "date": "2026-04-23",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-009"
+  },
+  {
+    "name": "સુરેશભાઈ વ્હોરા",
+    "type": "Zakat",
+    "village": "નદીપુર",
+    "amount": 5000,
+    "date": "2026-04-07",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-037"
+  },
+  {
+    "name": "હિતેશભાઈ મહેતા",
+    "type": "Zakat",
+    "village": "લીલાપુર",
+    "amount": 2000,
+    "date": "2026-04-02",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-061"
+  },
+  {
+    "name": "કાજલભાઈ શેખ",
+    "type": "Corpus",
+    "village": "ઘાસવાડી",
+    "amount": 2500,
+    "date": "2026-04-01",
+    "year": "2026-2027",
+    "receiptNo": "REC-2026-036"
+  },
+  {
+    "name": "સીમાભાઈ શેખ",
+    "type": "Medical",
+    "village": "શિવપુર",
+    "amount": 5000,
+    "date": "2026-03-25",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-141"
+  },
+  {
+    "name": "દિનેશભાઈ ચૌહાણ",
+    "type": "General",
+    "village": "ઘાસવાડી",
+    "amount": 500,
+    "date": "2026-03-09",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-110"
+  },
+  {
+    "name": "ભાવેશભાઈ શેખ",
+    "type": "Corpus",
+    "village": "લીલાપુર",
+    "amount": 750,
+    "date": "2026-03-02",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-136"
+  },
+  {
+    "name": "દિનેશ શાહ",
+    "type": "Corpus",
+    "village": "સૂર્યગામ",
+    "amount": 300,
+    "date": "2026-02-14",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-116"
+  },
+  {
+    "name": "અલ્પાભાઈ પટેલ",
+    "type": "Education",
+    "village": "મેવાસ",
+    "amount": 11000,
+    "date": "2026-02-11",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-140"
+  },
+  {
+    "name": "સીમા શેખ",
+    "type": "General",
+    "village": "ટેકરીપુરા",
+    "amount": 1500,
+    "date": "2026-02-08",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-106"
+  },
+  {
+    "name": "મનોજભાઈ જોશી",
+    "type": "Corpus",
+    "village": "રામપુર",
+    "amount": 200,
+    "date": "2026-02-06",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-121"
+  },
+  {
+    "name": "સલીમબેન સોલંકી",
+    "type": "Zakat",
+    "village": "નદીપુર",
+    "amount": 750,
+    "date": "2026-01-31",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-139"
+  },
+  {
+    "name": "ચિરાગ સોલંકી",
+    "type": "Education",
+    "village": "સૂર્યગામ",
+    "amount": 300,
+    "date": "2026-01-25",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-142"
+  },
+  {
+    "name": "રાજેશભાઈ દેસાઈ",
+    "type": "CSR",
+    "village": "શિવપુર",
+    "amount": 300,
+    "date": "2026-01-12",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-104"
+  },
+  {
+    "name": "ચિરાગભાઈ શાહ",
+    "type": "General",
+    "village": "ટેકરીપુરા",
+    "amount": 200,
+    "date": "2025-12-26",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-123"
+  },
+  {
+    "name": "નીતાબેન શેખ",
+    "type": "General",
+    "village": "ટેકરીપુરા",
+    "amount": 2000,
+    "date": "2025-12-17",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-107"
+  },
+  {
+    "name": "આયશા પટેલ",
+    "type": "Corpus",
+    "village": "રામપુર",
+    "amount": 1000,
+    "date": "2025-12-16",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-105"
+  },
+  {
+    "name": "નીતાબેન શેખ",
+    "type": "CSR",
+    "village": "સૂર્યગામ",
+    "amount": 501,
+    "date": "2025-12-10",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-128"
+  },
+  {
+    "name": "કલ્પેશ ત્રિવેદી",
+    "type": "General",
+    "village": "નદીપુર",
+    "amount": 11000,
+    "date": "2025-12-06",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-112"
+  },
+  {
+    "name": "મનોજબેન શાહ",
+    "type": "Education",
+    "village": "મેવાસ",
+    "amount": 5000,
+    "date": "2025-11-30",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-127"
+  },
+  {
+    "name": "આયશા પટેલ",
+    "type": "Zakat",
+    "village": "ઘાસવાડી",
+    "amount": 2000,
+    "date": "2025-11-21",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-115"
+  },
+  {
+    "name": "સીમા મહેતા",
+    "type": "CSR",
+    "village": "ઘાસવાડી",
+    "amount": 200,
+    "date": "2025-11-15",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-125"
+  },
+  {
+    "name": "રમેશભાઈ પટેલ",
+    "type": "Corpus",
+    "village": "શિવપુર",
+    "amount": 2000,
+    "date": "2025-11-14",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-101"
+  },
+  {
+    "name": "સીમાબેન ઠક્કર",
+    "type": "Zakat",
+    "village": "સૂર્યગામ",
+    "amount": 1000,
+    "date": "2025-11-07",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-113"
+  },
+  {
+    "name": "મયુરબેન ઘોરી",
+    "type": "General",
+    "village": "રામપુર",
+    "amount": 11000,
+    "date": "2025-11-03",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-118"
+  },
+  {
+    "name": "રાજેશભાઈ પટેલ",
+    "type": "Corpus",
+    "village": "ટેકરીપુરા",
+    "amount": 1100,
+    "date": "2025-09-25",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-130"
+  },
+  {
+    "name": "ભાવેશ સોલંકી",
+    "type": "Education",
+    "village": "નદીપુર",
+    "amount": 1100,
+    "date": "2025-09-23",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-129"
+  },
+  {
+    "name": "નીતાબેન જોશી",
+    "type": "Medical",
+    "village": "નદીપુર",
+    "amount": 200,
+    "date": "2025-09-21",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-122"
+  },
+  {
+    "name": "સુરેશબેન પટેલ",
+    "type": "Education",
+    "village": "નદીપુર",
+    "amount": 1100,
+    "date": "2025-09-15",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-119"
+  },
+  {
+    "name": "મનોજભાઈ જોશી",
+    "type": "General",
+    "village": "ઘાસવાડી",
+    "amount": 500,
+    "date": "2025-09-13",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-134"
+  },
+  {
+    "name": "સુરેશ ઠક્કર",
+    "type": "Corpus",
+    "village": "ઘાસવાડી",
+    "amount": 2000,
+    "date": "2025-09-11",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-114"
+  },
+  {
+    "name": "સુરેશ દેસાઈ",
+    "type": "Zakat",
+    "village": "લીલાપુર",
+    "amount": 501,
+    "date": "2025-09-09",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-109"
+  },
+  {
+    "name": "દિનેશ દેસાઈ",
+    "type": "Corpus",
+    "village": "નદીપુર",
+    "amount": 5000,
+    "date": "2025-09-01",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-138"
+  },
+  {
+    "name": "મીરા નાયર",
+    "type": "CSR",
+    "village": "લીલાપુર",
+    "amount": 4500,
+    "date": "2025-08-19",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-102"
+  },
+  {
+    "name": "આયશાભાઈ જોશી",
+    "type": "CSR",
+    "village": "ઘાસવાડી",
+    "amount": 2000,
+    "date": "2025-08-16",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-133"
+  },
+  {
+    "name": "હિતેશબેન દેસાઈ",
+    "type": "Education",
+    "village": "લીલાપુર",
+    "amount": 1100,
+    "date": "2025-08-08",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-111"
+  },
+  {
+    "name": "રાજેશભાઈ પટેલ",
+    "type": "Education",
+    "village": "સૂર્યગામ",
+    "amount": 2000,
+    "date": "2025-08-07",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-126"
+  },
+  {
+    "name": "ચિરાગબેન પટેલ",
+    "type": "Zakat",
+    "village": "નદીપુર",
+    "amount": 500,
+    "date": "2025-08-03",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-132"
+  },
+  {
+    "name": "આયશાભાઈ ઘોરી",
+    "type": "Corpus",
+    "village": "મેવાસ",
+    "amount": 1500,
+    "date": "2025-07-13",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-108"
+  },
+  {
+    "name": "ભાવેશબેન પરમાર",
+    "type": "CSR",
+    "village": "સૂર્યગામ",
+    "amount": 750,
+    "date": "2025-07-02",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-124"
+  },
+  {
+    "name": "રાજેશભાઈ પરમાર",
+    "type": "Zakat",
+    "village": "ટેકરીપુરા",
+    "amount": 2500,
+    "date": "2025-06-23",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-131"
+  },
+  {
+    "name": "હિતેશબેન વ્હોરા",
+    "type": "Corpus",
+    "village": "મેવાસ",
+    "amount": 200,
+    "date": "2025-05-16",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-137"
+  },
+  {
+    "name": "પ્રકાશબેન પટેલ",
+    "type": "General",
+    "village": "ટેકરીપુરા",
+    "amount": 500,
+    "date": "2025-05-14",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-117"
+  },
+  {
+    "name": "પ્રકાશભાઈ પરમાર",
+    "type": "Corpus",
+    "village": "ટેકરીપુરા",
+    "amount": 300,
+    "date": "2025-05-08",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-120"
+  },
+  {
+    "name": "યુસુફ શેખ",
+    "type": "Medical",
+    "village": "રામપુર",
+    "amount": 300,
+    "date": "2025-05-02",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-103"
+  },
+  {
+    "name": "યુસુફબેન શાહ",
+    "type": "Zakat",
+    "village": "ટેકરીપુરા",
+    "amount": 2000,
+    "date": "2025-04-01",
+    "year": "2025-2026",
+    "receiptNo": "REC-2025-135"
+  },
+  {
+    "name": "સીમાબેન મન્સૂરી",
+    "type": "Zakat",
+    "village": "રામપુર",
+    "amount": 300,
+    "date": "2025-03-29",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-212"
+  },
+  {
+    "name": "દિનેશભાઈ વ્હોરા",
+    "type": "Education",
+    "village": "સૂર્યગામ",
+    "amount": 300,
+    "date": "2025-03-17",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-208"
+  },
+  {
+    "name": "નિલેશ દેસાઈ",
+    "type": "Education",
+    "village": "રામપુર",
+    "amount": 750,
+    "date": "2025-03-11",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-211"
+  },
+  {
+    "name": "આયશાબેન ત્રિવેદી",
+    "type": "Zakat",
+    "village": "લીલાપુર",
+    "amount": 1500,
+    "date": "2025-02-27",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-207"
+  },
+  {
+    "name": "હિતેશબેન જોશી",
+    "type": "Education",
+    "village": "ટેકરીપુરા",
+    "amount": 2500,
+    "date": "2025-02-02",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-209"
+  },
+  {
+    "name": "હિતેશભાઈ મન્સૂરી",
+    "type": "Corpus",
+    "village": "રામપુર",
+    "amount": 750,
+    "date": "2025-01-16",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-210"
+  },
+  {
+    "name": "ભાવેશબેન શાહ",
+    "type": "Zakat",
+    "village": "શિવપુર",
+    "amount": 750,
+    "date": "2025-01-07",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-213"
+  },
+  {
+    "name": "ભાવેશ શાહ",
+    "type": "Corpus",
+    "village": "મેવાસ",
+    "amount": 1500,
+    "date": "2025-01-07",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-226"
+  },
+  {
+    "name": "સુરેશ સોલંકી",
+    "type": "Zakat",
+    "village": "ટેકરીપુરા",
+    "amount": 300,
+    "date": "2024-12-26",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-205"
+  },
+  {
+    "name": "જયેશ ઠક્કર",
+    "type": "General",
+    "village": "નદીપુર",
+    "amount": 1000,
+    "date": "2024-12-05",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-201"
+  },
+  {
+    "name": "સુરેશ મન્સૂરી",
+    "type": "CSR",
+    "village": "મેવાસ",
+    "amount": 501,
+    "date": "2024-11-21",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-214"
+  },
+  {
+    "name": "નીતાભાઈ પરમાર",
+    "type": "Corpus",
+    "village": "સૂર્યગામ",
+    "amount": 1500,
+    "date": "2024-11-18",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-203"
+  },
+  {
+    "name": "કાજલભાઈ ઠક્કર",
+    "type": "Zakat",
+    "village": "ટેકરીપુરા",
+    "amount": 200,
+    "date": "2024-10-17",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-222"
+  },
+  {
+    "name": "અહેમદભાઈ ચૌહાણ",
+    "type": "Education",
+    "village": "મેવાસ",
+    "amount": 2000,
+    "date": "2024-10-09",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-225"
+  },
+  {
+    "name": "મનોજબેન મન્સૂરી",
+    "type": "Zakat",
+    "village": "શિવપુર",
+    "amount": 500,
+    "date": "2024-10-04",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-217"
+  },
+  {
+    "name": "નિલેશભાઈ ત્રિવેદી",
+    "type": "Education",
+    "village": "ટેકરીપુરા",
+    "amount": 5000,
+    "date": "2024-08-22",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-223"
+  },
+  {
+    "name": "અમિતબેન ચૌહાણ",
+    "type": "Corpus",
+    "village": "લીલાપુર",
+    "amount": 5000,
+    "date": "2024-08-14",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-204"
+  },
+  {
+    "name": "મનોજ ચૌહાણ",
+    "type": "General",
+    "village": "સૂર્યગામ",
+    "amount": 11000,
+    "date": "2024-08-14",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-206"
+  },
+  {
+    "name": "સુરેશ શાહ",
+    "type": "General",
+    "village": "ટેકરીપુરા",
+    "amount": 1000,
+    "date": "2024-07-17",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-215"
+  },
+  {
+    "name": "મનોજબેન ઘોરી",
+    "type": "Medical",
+    "village": "ઘાસવાડી",
+    "amount": 501,
+    "date": "2024-06-16",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-224"
+  },
+  {
+    "name": "અહેમદબેન ઘોરી",
+    "type": "CSR",
+    "village": "લીલાપુર",
+    "amount": 1000,
+    "date": "2024-06-12",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-219"
+  },
+  {
+    "name": "હિના શેખ",
+    "type": "CSR",
+    "village": "લીલાપુર",
+    "amount": 11000,
+    "date": "2024-06-07",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-216"
+  },
+  {
+    "name": "રાજેશભાઈ પરમાર",
+    "type": "CSR",
+    "village": "લીલાપુર",
+    "amount": 1100,
+    "date": "2024-04-16",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-202"
+  },
+  {
+    "name": "ધર્મેશબેન જોશી",
+    "type": "CSR",
+    "village": "લીલાપુર",
+    "amount": 1100,
+    "date": "2024-04-07",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-221"
+  },
+  {
+    "name": "રુકસાના મન્સૂરી",
+    "type": "Zakat",
+    "village": "ટેકરીપુરા",
+    "amount": 11000,
+    "date": "2024-04-02",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-218"
+  },
+  {
+    "name": "યુસુફબેન ત્રિવેદી",
+    "type": "Zakat",
+    "village": "લીલાપુર",
+    "amount": 501,
+    "date": "2024-04-01",
+    "year": "2024-2025",
+    "receiptNo": "REC-2024-220"
+  }
+]
