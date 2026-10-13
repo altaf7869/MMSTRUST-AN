@@ -2,10 +2,10 @@
 <div id="progressBar" [style.width.%]="progress()"></div>
 <button id="toTop" [class.show]="showTop()" (click)="toTop()" aria-label="Back to top"><i class="fa-solid fa-arrow-up"></i></button>
 
-<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top shadow-sm py-3" [class.scrolled]="scrolled()">
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top shadow-sm py-3" [class.scrolled]="scrolled()" [style.--hero]="heroUrl()">
   <div class="container">
     <a class="navbar-brand d-flex align-items-center gap-2 fw-bold text-dark fs-4" href="#home">
-      <div class="bg-trust-primary text-white p-2 rounded-circle d-flex align-items-center justify-content-center brand-icon" style="width:40px;height:40px"><i class="fa-solid fa-hands-holding-child"></i></div>
+      @if (t()['logo']) { <img [src]="'assets/' + t()['logo']" alt="logo" class="brand-logo" style="height:42px;width:42px;object-fit:contain;border-radius:50%;background:#fff"> } @else { <div class="bg-trust-primary text-white p-2 rounded-circle d-flex align-items-center justify-content-center brand-icon" style="width:40px;height:40px"><i class="fa-solid fa-hands-holding-child"></i></div> }
       <span class="brand-text">{{ t()['brand']?.first }} <span class="text-trust-primary">{{ t()['brand']?.second }}</span></span>
     </a>
     <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
@@ -70,13 +70,7 @@
 @if (t()['gallery']?.length) {
 <section id="gallery" class="py-5 bg-light"><div class="container py-lg-4">
   <div class="text-center mb-5 reveal section-title" data-anim="up" appReveal><span class="text-trust-primary fw-semibold text-uppercase small">ચિત્રોમાં અમારું કાર્ય</span><h2 class="display-5 fw-bold mt-1">ગેલેરી</h2><span class="bar"></span></div>
-  <div class="row g-3 g-md-4">
-    @for (g of t()['gallery']; track g.image; let i = $index) {
-      <div class="col-12 col-sm-6 col-lg-4 reveal" data-anim="up" appReveal [style.--d]="(i * .12) + 's'">
-        <div class="img-fx gal shadow-sm" appReveal><img [src]="assets(g.image)" [alt]="g.caption" loading="lazy" width="600" height="400" (error)="hideImg($event)"><div class="cap">{{ g.caption }}</div></div>
-      </div>
-    }
-  </div>
+  <app-gallery [items]="t()['gallery']"></app-gallery>
 </div></section>
 }
 
@@ -241,6 +235,5 @@
   <hr class="border-secondary opacity-25">
   <div class="small opacity-75 text-center">{{ t()['copyright'] }}</div>
 </div></footer>
-
 
 @if (toast()) { <div id="toastBox" class="show" role="status">{{ toast() }}</div> }

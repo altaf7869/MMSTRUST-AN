@@ -1,4 +1,3 @@
-
 :root {
   --bs-primary: #0d3b66;
   --bs-primary-rgb: 13, 59, 102;
@@ -270,3 +269,17 @@ section.py-5 { padding-top: clamp(2.5rem, 6vw, 5rem) !important; padding-bottom:
 .hero-section .container{padding-top:1rem;padding-bottom:1rem}
 .bar-fill{width:0}
 .cursor-pointer{cursor:pointer}
+
+/* ===== Header: visible background image + frosted navbar ===== */
+.hero-section{position:relative;overflow:hidden;background:#0a2c4d}
+.hero-section::before{content:'';position:absolute;inset:-4%;background:var(--hero,none) center/cover no-repeat;opacity:.55;animation:heroZoom 24s ease-in-out infinite alternate;z-index:0}
+.hero-section::after{content:'';position:absolute;inset:0;z-index:1;background:linear-gradient(100deg,rgba(7,33,60,.90) 0%,rgba(13,59,102,.72) 52%,rgba(13,59,102,.42) 100%),linear-gradient(to top,rgba(7,33,60,.65),transparent 35%)}
+.hero-section>.container{position:relative;z-index:3}
+.hero-section .blob{z-index:2}
+@keyframes heroZoom{from{transform:scale(1)}to{transform:scale(1.12)}}
+@media (max-width:991px){.hero-section::after{background:linear-gradient(rgba(7,33,60,.80),rgba(13,59,102,.72)),linear-gradient(to top,rgba(7,33,60,.6),transparent 35%)}}
+@media (prefers-reduced-motion:reduce){.hero-section::before{animation:none}}
+
+.navbar.bg-white{background:rgba(255,255,255,.80)!important;-webkit-backdrop-filter:blur(14px) saturate(1.4);backdrop-filter:blur(14px) saturate(1.4);border-bottom:1px solid rgba(13,59,102,.08)}
+.navbar.bg-white::before{content:'';position:absolute;inset:0;background:var(--hero,none) center/cover;opacity:.07;pointer-events:none;z-index:-1}
+.navbar.scrolled.bg-white{background:rgba(255,255,255,.93)!important}

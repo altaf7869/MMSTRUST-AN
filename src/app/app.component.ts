@@ -1,5 +1,6 @@
 import { Component, HostListener, computed, effect, inject, signal } from '@angular/core';
 import { DataService } from './data.service';
+import { GalleryComponent } from './gallery.component';
 import { PagerComponent } from './pager.component';
 import { PdfService } from './pdf.service';
 import { CountDirective, RevealDirective } from './directives';
@@ -7,7 +8,7 @@ import { Donor, Expense } from './models';
 import { fmt, shownName, sum, ty } from './util';
 
 @Component({
-  selector: 'app-root', standalone: true, imports: [PagerComponent, RevealDirective, CountDirective],
+  selector: 'app-root', standalone: true, imports: [GalleryComponent, PagerComponent, RevealDirective, CountDirective],
   templateUrl: './app.component.html'
 })
 export class AppComponent {
