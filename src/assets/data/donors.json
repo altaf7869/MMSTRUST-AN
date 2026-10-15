@@ -1,1163 +1,2325 @@
+
 [
   {
-    "name": "આયશાબેન વ્હોરા",
-    "type": "Corpus",
-    "village": "લીલાપુર",
-    "amount": 2000,
-    "date": "2026-10-04",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-018"
-  },
-  {
-    "name": "ઇમરાનબેન શાહ",
-    "type": "General",
-    "village": "લીલાપુર",
-    "amount": 501,
-    "date": "2026-10-03",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-048"
-  },
-  {
-    "name": "કિરીટભાઈ જોશી",
-    "type": "Corpus",
-    "village": "શિવપુર",
-    "amount": 1500,
-    "date": "2026-10-02",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-001"
-  },
-  {
-    "name": "સલીમબેન ઘોરી",
-    "type": "Education",
-    "village": "લીલાપુર",
-    "amount": 11000,
-    "date": "2026-10-02",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-052"
-  },
-  {
-    "name": "સલીમ ઠક્કર",
-    "type": "Corpus",
-    "village": "રામપુર",
-    "amount": 1000,
-    "date": "2026-10-01",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-024"
-  },
-  {
-    "name": "ભાવેશબેન મહેતા",
-    "type": "Zakat",
-    "village": "ઘાસવાડી",
-    "amount": 300,
-    "date": "2026-09-30",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-051"
-  },
-  {
-    "name": "પ્રિયા શર્મા",
-    "type": "General",
-    "village": "લીલાપુર",
-    "amount": 750,
-    "date": "2026-09-28",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-002"
-  },
-  {
-    "name": "દિનેશ વ્હોરા",
-    "type": "Education",
-    "village": "રામપુર",
-    "amount": 750,
-    "date": "2026-09-27",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-023"
-  },
-  {
-    "name": "સીમા પરમાર",
-    "type": "Education",
-    "village": "શિવપુર",
-    "amount": 1500,
-    "date": "2026-09-24",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-032"
-  },
-  {
-    "name": "નીતાભાઈ ચૌહાણ",
-    "type": "Medical",
-    "village": "ટેકરીપુરા",
+    "name": "ખાન ઇકરામઅલી એસ",
+    "type": "ઝકાત",
+    "village": "સુલતાનપુરા",
     "amount": 5000,
-    "date": "2026-09-24",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-042"
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
   },
   {
-    "name": "કલ્પેશભાઈ વ્હોરા",
-    "type": "Medical",
-    "village": "સૂર્યગામ",
+    "name": "ડો. ખુર્શીદહુસેન બાવા સાહેબ",
+    "type": "ઝકાત",
+    "village": "મુમ્બઈ",
+    "amount": 5000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ખાન તહેજિબબાનૂ",
+    "type": "ઝકાત",
+    "village": "સુલતાનપુરા",
+    "amount": 500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસલીમભાઇ",
+    "type": "ઝકાત",
+    "village": "પાન તલાવડી",
+    "amount": 5000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઉસ્માનભાઇ ફોઝી",
+    "type": "ઝકાત",
+    "village": "જિરાલ",
+    "amount": 2000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "પાન તલાવડી યંગ કમીટી",
+    "type": "ઝકાત",
+    "village": "પાન તલાવડી",
+    "amount": 2100,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા અસદભાઇ સહીદખા",
+    "type": "ઝકાત",
+    "village": "રેંગણ",
+    "amount": 2500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઘોરિ ખલિલ મહમદ",
+    "type": "ઝકાત",
+    "village": "તિલકવાડા",
+    "amount": 2500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "મર્હુમ જાહીદહુસેન ઉસુફખાનજી",
+    "type": "ઝકાત",
+    "village": "પુપુરા",
+    "amount": 2000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "રિંકુભાઇ ફિરોજમહમદ",
+    "type": "ઝકાત",
+    "village": "કામસોલી",
     "amount": 1000,
-    "date": "2026-09-22",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-013"
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
   },
   {
-    "name": "નીતાબેન ઘોરી",
-    "type": "Zakat",
-    "village": "મેવાસ",
-    "amount": 300,
-    "date": "2026-09-22",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-033"
+    "name": "દાયમા ઇમરાન સબ્બિરહુસેન",
+    "type": "ઝકાત",
+    "village": "વાસણ",
+    "amount": 2500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
   },
   {
-    "name": "મહેશ શાહ",
-    "type": "CSR",
-    "village": "નદીપુર",
+    "name": "એક મુસલીમભાઇ",
+    "type": "ઝકાત",
+    "village": "ઉચાદ",
+    "amount": 5000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઠાકોર તોસિફમહમદ",
+    "type": "ઝકાત",
+    "village": "વા-ટેકરા",
+    "amount": 2500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસલીમભાઇ",
+    "type": "ઝકાત",
+    "village": "દેવલિયા",
+    "amount": 20000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચૌહાન સલાઉદ્દિન જાઉદ્દિન",
+    "type": "ઝકાત",
+    "village": "ધામસિયા",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા સમિરમહમદ નુરમહમદ",
+    "type": "ઝકાત",
+    "village": "બરોડા",
+    "amount": 2000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા મુસ્તાકભાઇ મલંગસાબ",
+    "type": "ઝકાત",
+    "village": "વાસણ",
+    "amount": 1100,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "હાજી યુનુસભાઇ યુસુફભાઇ",
+    "type": "ઝકાત",
+    "village": "સુરત",
+    "amount": 5000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ખાન જુનેદમહમદ જલાલુદ્દિન",
+    "type": "ઝકાત",
+    "village": "પાન તલાવડી",
+    "amount": 15000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચૌહન જફરુલ્લાખાન બાલાસાબ",
+    "type": "ઝકાત",
+    "village": "ધામસીયા",
+    "amount": 2500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસલીમભાઇ",
+    "type": "ઝકાત",
+    "village": "વોરા",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઘોરી હનિફસાહેબ ફકિરમહમદ",
+    "type": "ઝકાત",
+    "village": "તિલકવાડા",
+    "amount": 2500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "મર્હુમા તસ્લિમ્બીબી જાઉદ્દિન",
+    "type": "ઝકાત",
+    "village": "ધામસિયા",
+    "amount": 2000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઘોરી આસિફભાઇ",
+    "type": "ઝકાત",
+    "village": "દેવલીયા",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાઠોડ મોઇનખા ઇકબાલખા",
+    "type": "ઝકાત",
+    "village": "તિલકવાડા",
+    "amount": 2100,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા નિયાઝમહમદ ફિરોજખાન",
+    "type": "ઝકાત",
+    "village": "ઉચાદ",
+    "amount": 2000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસલીમભાઇ",
+    "type": "ઝકાત",
+    "village": "પાન તલાવડી",
+    "amount": 1500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસલીમભાઇ",
+    "type": "ઝકાત",
+    "village": "વા-ટેકરા",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "મેમણ વસીમભાઇ પ્રેસ",
+    "type": "ઝકાત",
+    "village": "તિલકવાડા",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઠાકોર કામિલ (બિકુ)",
+    "type": "ઝકાત",
+    "village": "પાન તલાવડી",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઠાકોર આદિલ અકતરહુસેન",
+    "type": "ઝકાત",
+    "village": "બરોદા",
+    "amount": 2000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાઠોડ સફરાજભાઇ",
+    "type": "ઝકાત",
+    "village": "દેદિયાપાડા",
+    "amount": 2100,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસલીમભાઇ",
+    "type": "ઝકાત",
+    "village": "બરોદા",
+    "amount": 5000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "સૈયદ બુસરાબેગમ અબ્દુલવાહીદ",
+    "type": "ઝકાત",
+    "village": "બરોદા",
+    "amount": 2500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ગૌચરિય મુસ્લિમભાઓ",
+    "type": "ઝકાત",
+    "village": "ગૌચરિયા",
+    "amount": 3850,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા સદદામ હુસેન",
+    "type": "ઝકાત",
+    "village": "દેવલિયા",
+    "amount": 500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લીમભાઇ",
+    "type": "ઝકાત",
+    "village": "",
+    "amount": 50,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લીમભાઇ",
+    "type": "ઝકાત",
+    "village": "",
+    "amount": 500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ખાન નફિસાબીબી",
+    "type": "ઝકાತ",
+    "village": "બરોદા",
+    "amount": 500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લીમભાઇ",
+    "type": "ઝકાત",
+    "village": "",
+    "amount": 100,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લીમભાઇ",
+    "type": "ઝકાત",
+    "village": "",
+    "amount": 100,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "આતિફ અબ્દુલરઝાક",
+    "type": "ઝકાત",
+    "village": "બરોદા",
+    "amount": 200,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લીમભાઇ",
+    "type": "ઝકાત",
+    "village": "",
+    "amount": 200,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લીમભાઇ",
+    "type": "ઝકાત",
+    "village": "ઉચાદ",
+    "amount": 500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લીમભાઇ",
+    "type": "ઝકાત",
+    "village": "બરોદા",
+    "amount": 5000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લીમભાઇ",
+    "type": "ઝકાત",
+    "village": "બરોદા",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઘોરી ઉસ્માનખાન",
+    "type": "ઝકાત",
+    "village": "જીરાલ",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લીમભાઇ",
+    "type": "ઝકાત",
+    "village": "ઉચાદ",
+    "amount": 10000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાઠોડ ઇરફાન ભાઇ",
+    "type": "ઝકાત",
+    "village": "",
+    "amount": 1500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "રિંકુભાઇ ફિરોજભાઇ",
+    "type": "ઝકાત",
+    "village": "અહમેદાબાદ",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચૌહાણ તંવિર ફાતમા",
+    "type": "ઝકાત",
+    "village": "બરોદા",
+    "amount": 1250,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ખાન મહમદ સર્જિલ",
+    "type": "ઝકાત",
+    "village": "અગર",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચૌહાણ સાજિદખાંનજી",
+    "type": "ઝકાત",
+    "village": "સંદુલા",
+    "amount": 2500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા સુલ્તાન મહમદ",
+    "type": "ઝકાત",
+    "village": "દેવલિયા",
+    "amount": 2000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા અસદખાન સહિદ",
+    "type": "ઝકાત",
+    "village": "રેંગણ",
+    "amount": 2500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "મલેક યાકુબભાઇ ટપાલી",
+    "type": "ઝકાત",
+    "village": "પાન તલાવડી",
+    "amount": 2100,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચૌહાણ સૈફઅલી",
+    "type": "ઝકાત",
+    "village": "સંદુલા",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ડો. અંકિત ભાલાવાટ",
+    "type": "ઝકાત",
+    "village": "ટુંદાવ",
+    "amount": 500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચૌહાણ સલાઉદ્દિન જે",
+    "type": "ઝકાત",
+    "village": "ધામસીયા",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાઠોડ મોઇનખા",
+    "type": "ઝકાત",
+    "village": "તિલકવાડા",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચૌહાણ જહેરુદ્દિન એ",
+    "type": "ઝકાત",
+    "village": "અહમદાવાદ",
+    "amount": 2000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા સમીરમહમદ એન",
+    "type": "ઝકાત",
+    "village": "બરોદા",
+    "amount": 2000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચૌહાણ મસુદઅહેમદ",
+    "type": "ઝકાત",
+    "village": "અગર",
+    "amount": 5000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઘોરી હનિફભાઇ ફકિરમહમદ",
+    "type": "ઝકાત",
+    "village": "તિલકવાડા",
+    "amount": 2500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "હાઝી યુનુશઅહેમદ",
+    "type": "ઝકાત",
+    "village": "સુરત",
+    "amount": 5000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચૌહાણ તંજુમુદ્દીન જે",
+    "type": "ઝકાત",
+    "village": "ધામસીયા",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા મુસ્તાકભાઇ",
+    "type": "ઝકાત",
+    "village": "વાસણ",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "મેમણ વસિમભાઇ",
+    "type": "ઝકાત",
+    "village": "તિલકવાડા",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "કડિવાલા આરિફભાઇ",
+    "type": "ઝકાત",
+    "village": "સાવલી",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાઠોડ બાબાસાબ એમ",
+    "type": "ઝકાત",
+    "village": "બિહોરા",
+    "amount": 2500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઘોરી ફુરકાન મહમદ આઇ",
+    "type": "ઝકાત",
+    "village": "બરોદા",
+    "amount": 2500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લીમભાઇ",
+    "type": "ઝકાત",
+    "village": "પાન તલાવડી",
+    "amount": 5000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા મહમદપરવેજ",
+    "type": "ઝકાત",
+    "village": "સાવલી",
+    "amount": 5000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ખાન આયાઝઅલી એસ",
+    "type": "ઝકાત",
+    "village": "કસુંદર",
     "amount": 3000,
-    "date": "2026-09-20",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-003"
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
   },
   {
-    "name": "સુરેશ વ્હોરા",
-    "type": "CSR",
-    "village": "ઘાસવાડી",
-    "amount": 11000,
-    "date": "2026-09-19",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-020"
+    "name": "એક મુસ્લીમભાઇ",
+    "type": "ઝકાત",
+    "village": "પાન તલાવડી",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
   },
   {
-    "name": "કાજલ ઘોરી",
-    "type": "Medical",
-    "village": "નદીપુર",
-    "amount": 2000,
-    "date": "2026-09-17",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-059"
-  },
-  {
-    "name": "ફાતિમા મન્સૂરી",
-    "type": "Zakat",
-    "village": "સૂર્યગામ",
+    "name": "રિઝવાનાબાનુ એચ",
+    "type": "ઝકાત",
+    "village": "બરોદા",
     "amount": 500,
-    "date": "2026-09-15",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-004"
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
   },
   {
-    "name": "ઇમરાન શાહ",
-    "type": "Education",
-    "village": "લીલાપુર",
+    "name": "મર્હુમા હજીયાની જોહરાબીબી",
+    "type": "ઝકાત",
+    "village": "બરોદા",
+    "amount": 500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લીમભાઇ",
+    "type": "ઝકાત",
+    "village": "વોરા",
+    "amount": 1500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા તંવિર મહમદ એન",
+    "type": "ઝકાત",
+    "village": "બરોદા",
+    "amount": 3500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચૌહાણ ઇંતેખાબ આઇ",
+    "type": "ઝકાત",
+    "village": "કાંટ્લેજ",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા લ્યાકતઅલી",
+    "type": "ઝકાત",
+    "village": "વાસણ",
+    "amount": 500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા નિયાજ મહમદ એફ",
+    "type": "ઝકાત",
+    "village": "ઉચાદ",
+    "amount": 2000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા મહમદ સિદ્દિક એમ",
+    "type": "ઝકાત",
+    "village": "બરોદા",
+    "amount": 500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લીમભાઇ",
+    "type": "ઝકાત",
+    "village": "ઇંદરમા",
+    "amount": 2000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાઠોડ બાલાસાબ",
+    "type": "ઝકાત",
+    "village": "વોરા",
+    "amount": 500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લીમભાઇ",
+    "type": "ઝકાત",
+    "village": "ઉચાદ",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લીમભાઇ",
+    "type": "ઝકાત",
+    "village": "મારુંધિયા",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાઠોડ મુન્નાભાઇ બાબુલ",
+    "type": "ઝકાત",
+    "village": "ઉચાદ",
     "amount": 1100,
-    "date": "2026-09-15",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-050"
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
   },
   {
-    "name": "દીપક અને સુનીતા મહેતા",
-    "type": "Medical",
-    "village": "ટેકરીપુરા",
-    "amount": 5000,
-    "date": "2026-09-10",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-005"
-  },
-  {
-    "name": "સલીમભાઈ દેસાઈ",
-    "type": "Corpus",
-    "village": "નદીપુર",
-    "amount": 750,
-    "date": "2026-08-28",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-011"
-  },
-  {
-    "name": "આયશાબેન જોશી",
-    "type": "General",
-    "village": "નદીપુર",
-    "amount": 11000,
-    "date": "2026-08-28",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-016"
-  },
-  {
-    "name": "પ્રકાશ ઘોરી",
-    "type": "CSR",
-    "village": "મેવાસ",
-    "amount": 501,
-    "date": "2026-08-19",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-028"
-  },
-  {
-    "name": "નીતાભાઈ પટેલ",
-    "type": "Corpus",
-    "village": "લીલાપુર",
+    "name": "દાયમા જલાલુદ્દિન એસ",
+    "type": "ઝકાત",
+    "village": "દધાલ",
     "amount": 2000,
-    "date": "2026-08-19",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-055"
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
   },
   {
-    "name": "અહેમદભાઈ પટેલ",
-    "type": "Education",
-    "village": "ઘાસવાડી",
+    "name": "ચૌહાણ જાહિદખાન એ",
+    "type": "ઝકાત",
+    "village": "કાંદલેજ",
     "amount": 1500,
-    "date": "2026-08-18",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-058"
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
   },
   {
-    "name": "કાજલભાઈ જોશી",
-    "type": "CSR",
-    "village": "શિવપુર",
-    "amount": 500,
-    "date": "2026-08-03",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-030"
+    "name": "એક મુસ્લીમભાઇ",
+    "type": "ઝકાત",
+    "village": "ઉચાદ",
+    "amount": 1100,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
   },
   {
-    "name": "આયશાબેન મન્સૂરી",
-    "type": "CSR",
-    "village": "લીલાપુર",
-    "amount": 500,
-    "date": "2026-08-03",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-039"
+    "name": "ઘોરી સિરિનબાનુ એ",
+    "type": "ઝકાત",
+    "village": "પાન તલાવડી",
+    "amount": 5000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
   },
   {
-    "name": "અલ્પાબેન પટેલ",
-    "type": "General",
-    "village": "લીલાપુર",
-    "amount": 501,
-    "date": "2026-08-02",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-034"
+    "name": "મલેક નિસારભાઇ",
+    "type": "ઝકાત",
+    "village": "અગર",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
   },
   {
-    "name": "ભાવેશબેન દેસાઈ",
-    "type": "Zakat",
-    "village": "શિવપુર",
+    "name": "ઠાકોર કામિલ",
+    "type": "ઝકાત",
+    "village": "પાન તલાવડી",
     "amount": 1500,
-    "date": "2026-07-30",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-049"
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
   },
   {
-    "name": "કલ્પેશભાઈ ઠક્કર",
-    "type": "Medical",
-    "village": "શિવપુર",
-    "amount": 300,
-    "date": "2026-07-22",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-035"
+    "name": "રાઠોડ નિયાઝ મહમદ",
+    "type": "ઝકાત",
+    "village": "વજેરીયા",
+    "amount": 2000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
   },
   {
-    "name": "રાજેશ શાહ",
-    "type": "General",
-    "village": "શિવપુર",
+    "name": "મર્હુમા કનિઝ ફાતમા",
+    "type": "ઝકાત",
+    "village": "બરોદા",
+    "amount": 5000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લીમભાઇ",
+    "type": "ઝકાત",
+    "village": "પાન તલાવડી",
+    "amount": 1100,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઠકોર શાહનવાઝ",
+    "type": "ઝકાત",
+    "village": "પાન તલાવડી",
+    "amount": 500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા ઇમરાનભાઇ એસ",
+    "type": "ઝકાત",
+    "village": "વાસણ",
+    "amount": 2000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાઠોડ નજિરહુસેન યુ",
+    "type": "ઝકાત",
+    "village": "વજેરિયા",
+    "amount": 1000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લીમભાઇ",
+    "type": "ઝકાત",
+    "village": "કસુંદર",
+    "amount": 17500,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચૌહાણ જફરુલ્લાખાન બી",
+    "type": "ઝકાત",
+    "village": "ધામસીયા",
     "amount": 2500,
-    "date": "2026-07-18",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-010"
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
   },
   {
-    "name": "હિતેશ શાહ",
-    "type": "Medical",
-    "village": "ટેકરીપુરા",
-    "amount": 2000,
-    "date": "2026-07-17",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-012"
-  },
-  {
-    "name": "કલ્પેશબેન મહેતા",
-    "type": "Zakat",
-    "village": "મેવાસ",
-    "amount": 200,
-    "date": "2026-07-17",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-019"
-  },
-  {
-    "name": "નીતાબેન વ્હોરા",
-    "type": "Medical",
-    "village": "ઘાસવાડી",
-    "amount": 500,
-    "date": "2026-07-17",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-031"
-  },
-  {
-    "name": "હિનાબેન વ્હોરા",
-    "type": "Zakat",
-    "village": "લીલાપુર",
-    "amount": 300,
-    "date": "2026-06-29",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-021"
-  },
-  {
-    "name": "હિતેશબેન પરમાર",
-    "type": "Corpus",
-    "village": "લીલાપુર",
-    "amount": 2000,
-    "date": "2026-06-22",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-007"
-  },
-  {
-    "name": "અનન્યા દેસાઈ",
-    "type": "Education",
-    "village": "ઘાસવાડી",
-    "amount": 1200,
-    "date": "2026-06-12",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-006"
-  },
-  {
-    "name": "રુકસાનાબેન દેસાઈ",
-    "type": "Education",
-    "village": "ઘાસવાડી",
-    "amount": 1500,
-    "date": "2026-06-11",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-047"
-  },
-  {
-    "name": "રુકસાના પરમાર",
-    "type": "Corpus",
-    "village": "શિવપુર",
-    "amount": 11000,
-    "date": "2026-06-09",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-022"
-  },
-  {
-    "name": "ઇમરાન ઠક્કર",
-    "type": "Zakat",
-    "village": "લીલાપુર",
-    "amount": 300,
-    "date": "2026-06-04",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-038"
-  },
-  {
-    "name": "સુરેશ જોશી",
-    "type": "Medical",
-    "village": "રામપુર",
-    "amount": 1000,
-    "date": "2026-06-02",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-017"
-  },
-  {
-    "name": "ભાવેશ મન્સૂરી",
-    "type": "CSR",
-    "village": "શિવપુર",
-    "amount": 200,
-    "date": "2026-05-29",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-046"
-  },
-  {
-    "name": "નીતા ચૌહાણ",
-    "type": "Medical",
-    "village": "ઘાસવાડી",
-    "amount": 5000,
-    "date": "2026-05-28",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-044"
-  },
-  {
-    "name": "હિનાભાઈ ચૌહાણ",
-    "type": "General",
-    "village": "મેવાસ",
-    "amount": 11000,
-    "date": "2026-05-28",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-045"
-  },
-  {
-    "name": "દિનેશ દેસાઈ",
-    "type": "Medical",
-    "village": "ઘાસવાડી",
-    "amount": 750,
-    "date": "2026-05-25",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-057"
-  },
-  {
-    "name": "રુકસાના શેખ",
-    "type": "Zakat",
-    "village": "ઘાસવાડી",
-    "amount": 1500,
-    "date": "2026-05-23",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-015"
-  },
-  {
-    "name": "હિનાભાઈ મન્સૂરી",
-    "type": "Corpus",
-    "village": "સૂર્યગામ",
-    "amount": 750,
-    "date": "2026-05-14",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-025"
-  },
-  {
-    "name": "આયશાબેન શેખ",
-    "type": "CSR",
-    "village": "નદીપુર",
+    "name": "પઠાણ મલંગભાઇ",
+    "type": "લિલ્લાહ",
+    "village": "દેવલિયા",
     "amount": 1100,
-    "date": "2026-05-13",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-027"
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
   },
   {
-    "name": "સીમાભાઈ દેસાઈ",
-    "type": "Medical",
-    "village": "ઘાસવાડી",
+    "name": "ઠાકોર મુન્નાભાઇ",
+    "type": "ઝકાત",
+    "village": "પાન તલાવડી",
     "amount": 500,
-    "date": "2026-05-12",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-041"
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
   },
   {
-    "name": "કલ્પેશભાઈ પટેલ",
-    "type": "General",
-    "village": "રામપુર",
+    "name": "એક મુસ્લીમભાઇ",
+    "type": "ઝકાત",
+    "village": "દેવલિયા",
+    "amount": 25000,
+    "date": "",
+    "year": "2023-2024",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઠાકોર દાદુભાઇ સાબિરમહમદ",
+    "type": "ઝકાત",
+    "village": "સુલતાનપુરા",
     "amount": 5000,
-    "date": "2026-05-11",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-053"
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
   },
   {
-    "name": "સુરેશભાઈ મહેતા",
-    "type": "General",
-    "village": "સૂર્યગામ",
-    "amount": 200,
-    "date": "2026-05-09",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-029"
+    "name": "દાયમા મ.સિદિક હમિદખાનજી",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 500,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
   },
   {
-    "name": "સીમા પટેલ",
-    "type": "Zakat",
-    "village": "નદીપુર",
+    "name": "ઘાંચી અયુબભાઇ સુલેમાન",
+    "type": "ઝકાત",
+    "village": "સાવલી",
+    "amount": 500,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમાં સુલ્તાનખા આલમખા",
+    "type": "ઝકાત",
+    "village": "દેવલિયા",
+    "amount": 5000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા સબ્બિરહુસેન ફિરોજખા",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 2000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા સદ્દામહુસેન મંસુરખાન",
+    "type": "ઝકાત",
+    "village": "દેવલિયા",
+    "amount": 1000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા બસિરઅહેમદ ઉસ્માનગની",
+    "type": "ઝકાત",
+    "village": "સાવલી",
+    "amount": 1000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા તોસિફઅહેમદ બસિરઅહેમદ",
+    "type": "ઝકાત",
+    "village": "સાવલી",
+    "amount": 1000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા જુનેદઅહેમદ બસિરઅહેમદ",
+    "type": "ઝકાત",
+    "village": "સાવલી",
+    "amount": 1000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાજ નોમાન મોલના ઇશાક",
+    "type": "લિલ્લાહ",
+    "village": "વાઘોદીયા",
     "amount": 2500,
-    "date": "2026-05-09",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-060"
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
   },
   {
-    "name": "હિના મન્સૂરી",
-    "type": "Education",
-    "village": "ઘાસવાડી",
-    "amount": 500,
-    "date": "2026-05-08",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-054"
+    "name": "દાયમા સમિર નુર મહમદ",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 1000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
   },
   {
-    "name": "અહેમદભાઈ ત્રિવેદી",
-    "type": "General",
-    "village": "શિવપુર",
-    "amount": 750,
-    "date": "2026-05-06",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-056"
-  },
-  {
-    "name": "ધર્મેશભાઈ ઘોરી",
-    "type": "Zakat",
-    "village": "રામપુર",
-    "amount": 300,
-    "date": "2026-05-04",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-026"
-  },
-  {
-    "name": "ધર્મેશબેન સોલંકી",
-    "type": "CSR",
-    "village": "રામપુર",
-    "amount": 11000,
-    "date": "2026-04-27",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-040"
-  },
-  {
-    "name": "ઇમરાન પટેલ",
-    "type": "Medical",
-    "village": "સૂર્યગામ",
-    "amount": 200,
-    "date": "2026-04-25",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-008"
-  },
-  {
-    "name": "નીતા શાહ",
-    "type": "Medical",
-    "village": "શિવપુર",
+    "name": "રાઠોડ બાબાસાહેબ મહમદખા",
+    "type": "ઝકાત",
+    "village": "બિહોરા",
     "amount": 2500,
-    "date": "2026-04-25",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-014"
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
   },
   {
-    "name": "ચિરાગબેન શેખ",
-    "type": "CSR",
-    "village": "નદીપુર",
+    "name": "ફકિર ઇલ્યાસશા કરિમશા",
+    "type": "ઝકાત",
+    "village": "દેવલિયા",
+    "amount": 3000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "પઠાણ મોઇનખા મલંગભાઇ",
+    "type": "ઝકાત",
+    "village": "દેવલિયા",
     "amount": 1000,
-    "date": "2026-04-24",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-043"
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
   },
   {
-    "name": "અહેમદબેન શાહ",
-    "type": "General",
-    "village": "લીલાપુર",
-    "amount": 2000,
-    "date": "2026-04-23",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-009"
-  },
-  {
-    "name": "સુરેશભાઈ વ્હોરા",
-    "type": "Zakat",
-    "village": "નદીપુર",
-    "amount": 5000,
-    "date": "2026-04-07",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-037"
-  },
-  {
-    "name": "હિતેશભાઈ મહેતા",
-    "type": "Zakat",
-    "village": "લીલાપુર",
-    "amount": 2000,
-    "date": "2026-04-02",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-061"
-  },
-  {
-    "name": "કાજલભાઈ શેખ",
-    "type": "Corpus",
-    "village": "ઘાસવાડી",
+    "name": "એક મુસ્લિમભાઇ",
+    "type": "ઝકાત",
+    "village": "ઉચાદ",
     "amount": 2500,
-    "date": "2026-04-01",
-    "year": "2026-2027",
-    "receiptNo": "REC-2026-036"
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
   },
   {
-    "name": "સીમાભાઈ શેખ",
-    "type": "Medical",
-    "village": "શિવપુર",
-    "amount": 5000,
-    "date": "2026-03-25",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-141"
-  },
-  {
-    "name": "દિનેશભાઈ ચૌહાણ",
-    "type": "General",
-    "village": "ઘાસવાડી",
-    "amount": 500,
-    "date": "2026-03-09",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-110"
-  },
-  {
-    "name": "ભાવેશભાઈ શેખ",
-    "type": "Corpus",
-    "village": "લીલાપુર",
-    "amount": 750,
-    "date": "2026-03-02",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-136"
-  },
-  {
-    "name": "દિનેશ શાહ",
-    "type": "Corpus",
-    "village": "સૂર્યગામ",
-    "amount": 300,
-    "date": "2026-02-14",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-116"
-  },
-  {
-    "name": "અલ્પાભાઈ પટેલ",
-    "type": "Education",
-    "village": "મેવાસ",
-    "amount": 11000,
-    "date": "2026-02-11",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-140"
-  },
-  {
-    "name": "સીમા શેખ",
-    "type": "General",
-    "village": "ટેકરીપુરા",
-    "amount": 1500,
-    "date": "2026-02-08",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-106"
-  },
-  {
-    "name": "મનોજભાઈ જોશી",
-    "type": "Corpus",
-    "village": "રામપુર",
-    "amount": 200,
-    "date": "2026-02-06",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-121"
-  },
-  {
-    "name": "સલીમબેન સોલંકી",
-    "type": "Zakat",
-    "village": "નદીપુર",
-    "amount": 750,
-    "date": "2026-01-31",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-139"
-  },
-  {
-    "name": "ચિરાગ સોલંકી",
-    "type": "Education",
-    "village": "સૂર્યગામ",
-    "amount": 300,
-    "date": "2026-01-25",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-142"
-  },
-  {
-    "name": "રાજેશભાઈ દેસાઈ",
-    "type": "CSR",
-    "village": "શિવપુર",
-    "amount": 300,
-    "date": "2026-01-12",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-104"
-  },
-  {
-    "name": "ચિરાગભાઈ શાહ",
-    "type": "General",
-    "village": "ટેકરીપુરા",
-    "amount": 200,
-    "date": "2025-12-26",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-123"
-  },
-  {
-    "name": "નીતાબેન શેખ",
-    "type": "General",
-    "village": "ટેકરીપુરા",
-    "amount": 2000,
-    "date": "2025-12-17",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-107"
-  },
-  {
-    "name": "આયશા પટેલ",
-    "type": "Corpus",
-    "village": "રામપુર",
+    "name": "મલેક સાહિલભાઇ ઝાકિરભાઇ",
+    "type": "ઝકાત",
+    "village": "દેવલિયા",
     "amount": 1000,
-    "date": "2025-12-16",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-105"
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
   },
   {
-    "name": "નીતાબેન શેખ",
-    "type": "CSR",
-    "village": "સૂર્યગામ",
-    "amount": 501,
-    "date": "2025-12-10",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-128"
-  },
-  {
-    "name": "કલ્પેશ ત્રિવેદી",
-    "type": "General",
-    "village": "નદીપુર",
-    "amount": 11000,
-    "date": "2025-12-06",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-112"
-  },
-  {
-    "name": "મનોજબેન શાહ",
-    "type": "Education",
-    "village": "મેવાસ",
-    "amount": 5000,
-    "date": "2025-11-30",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-127"
-  },
-  {
-    "name": "આયશા પટેલ",
-    "type": "Zakat",
-    "village": "ઘાસવાડી",
+    "name": "દાયમા નિયાજમહમદ ફિરોજખા",
+    "type": "ઝકાત",
+    "village": "ઉચાદ",
     "amount": 2000,
-    "date": "2025-11-21",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-115"
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
   },
   {
-    "name": "સીમા મહેતા",
-    "type": "CSR",
-    "village": "ઘાસવાડી",
-    "amount": 200,
-    "date": "2025-11-15",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-125"
-  },
-  {
-    "name": "રમેશભાઈ પટેલ",
-    "type": "Corpus",
-    "village": "શિવપુર",
-    "amount": 2000,
-    "date": "2025-11-14",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-101"
-  },
-  {
-    "name": "સીમાબેન ઠક્કર",
-    "type": "Zakat",
-    "village": "સૂર્યગામ",
-    "amount": 1000,
-    "date": "2025-11-07",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-113"
-  },
-  {
-    "name": "મયુરબેન ઘોરી",
-    "type": "General",
-    "village": "રામપુર",
-    "amount": 11000,
-    "date": "2025-11-03",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-118"
-  },
-  {
-    "name": "રાજેશભાઈ પટેલ",
-    "type": "Corpus",
-    "village": "ટેકરીપુરા",
-    "amount": 1100,
-    "date": "2025-09-25",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-130"
-  },
-  {
-    "name": "ભાવેશ સોલંકી",
-    "type": "Education",
-    "village": "નદીપુર",
-    "amount": 1100,
-    "date": "2025-09-23",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-129"
-  },
-  {
-    "name": "નીતાબેન જોશી",
-    "type": "Medical",
-    "village": "નદીપુર",
-    "amount": 200,
-    "date": "2025-09-21",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-122"
-  },
-  {
-    "name": "સુરેશબેન પટેલ",
-    "type": "Education",
-    "village": "નદીપુર",
-    "amount": 1100,
-    "date": "2025-09-15",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-119"
-  },
-  {
-    "name": "મનોજભાઈ જોશી",
-    "type": "General",
-    "village": "ઘાસવાડી",
-    "amount": 500,
-    "date": "2025-09-13",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-134"
-  },
-  {
-    "name": "સુરેશ ઠક્કર",
-    "type": "Corpus",
-    "village": "ઘાસવાડી",
-    "amount": 2000,
-    "date": "2025-09-11",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-114"
-  },
-  {
-    "name": "સુરેશ દેસાઈ",
-    "type": "Zakat",
-    "village": "લીલાપુર",
-    "amount": 501,
-    "date": "2025-09-09",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-109"
-  },
-  {
-    "name": "દિનેશ દેસાઈ",
-    "type": "Corpus",
-    "village": "નદીપુર",
-    "amount": 5000,
-    "date": "2025-09-01",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-138"
-  },
-  {
-    "name": "મીરા નાયર",
-    "type": "CSR",
-    "village": "લીલાપુર",
-    "amount": 4500,
-    "date": "2025-08-19",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-102"
-  },
-  {
-    "name": "આયશાભાઈ જોશી",
-    "type": "CSR",
-    "village": "ઘાસવાડી",
-    "amount": 2000,
-    "date": "2025-08-16",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-133"
-  },
-  {
-    "name": "હિતેશબેન દેસાઈ",
-    "type": "Education",
-    "village": "લીલાપુર",
-    "amount": 1100,
-    "date": "2025-08-08",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-111"
-  },
-  {
-    "name": "રાજેશભાઈ પટેલ",
-    "type": "Education",
-    "village": "સૂર્યગામ",
-    "amount": 2000,
-    "date": "2025-08-07",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-126"
-  },
-  {
-    "name": "ચિરાગબેન પટેલ",
-    "type": "Zakat",
-    "village": "નદીપુર",
-    "amount": 500,
-    "date": "2025-08-03",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-132"
-  },
-  {
-    "name": "આયશાભાઈ ઘોરી",
-    "type": "Corpus",
-    "village": "મેવાસ",
-    "amount": 1500,
-    "date": "2025-07-13",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-108"
-  },
-  {
-    "name": "ભાવેશબેન પરમાર",
-    "type": "CSR",
-    "village": "સૂર્યગામ",
-    "amount": 750,
-    "date": "2025-07-02",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-124"
-  },
-  {
-    "name": "રાજેશભાઈ પરમાર",
-    "type": "Zakat",
-    "village": "ટેકરીપુરા",
+    "name": "રાઠોડ મુન્નાભાઇ બાબુલ",
+    "type": "ઝકાત",
+    "village": "ઉચાદ",
     "amount": 2500,
-    "date": "2025-06-23",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-131"
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
   },
   {
-    "name": "હિતેશબેન વ્હોરા",
-    "type": "Corpus",
-    "village": "મેવાસ",
-    "amount": 200,
-    "date": "2025-05-16",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-137"
+    "name": "રાઠોડ મલંગસાબ સરદારખા",
+    "type": "ઝકાત",
+    "village": "તિલકવાડા",
+    "amount": 1100,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
   },
   {
-    "name": "પ્રકાશબેન પટેલ",
-    "type": "General",
-    "village": "ટેકરીપુરા",
+    "name": "રાઠોડ મોઇનખા ઇકબાલખા",
+    "type": "ઝકાત",
+    "village": "તિલકવાડા",
+    "amount": 1100,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા બાબુભાઇ મુસફરખા",
+    "type": "ઝકાત",
+    "village": "નામલપુર",
+    "amount": 1100,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા મહમદહુસેન ફિરોજખા",
+    "type": "લિલ્લાહ",
+    "village": "સુરજીપુરા",
     "amount": 500,
-    "date": "2025-05-14",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-117"
-  },
-  {
-    "name": "પ્રકાશભાઈ પરમાર",
-    "type": "Corpus",
-    "village": "ટેકરીપુરા",
-    "amount": 300,
-    "date": "2025-05-08",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-120"
-  },
-  {
-    "name": "યુસુફ શેખ",
-    "type": "Medical",
-    "village": "રામપુર",
-    "amount": 300,
-    "date": "2025-05-02",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-103"
-  },
-  {
-    "name": "યુસુફબેન શાહ",
-    "type": "Zakat",
-    "village": "ટેકરીપુરા",
-    "amount": 2000,
-    "date": "2025-04-01",
-    "year": "2025-2026",
-    "receiptNo": "REC-2025-135"
-  },
-  {
-    "name": "સીમાબેન મન્સૂરી",
-    "type": "Zakat",
-    "village": "રામપુર",
-    "amount": 300,
-    "date": "2025-03-29",
+    "date": "",
     "year": "2024-2025",
-    "receiptNo": "REC-2024-212"
+    "receiptNo": ""
   },
   {
-    "name": "દિનેશભાઈ વ્હોરા",
-    "type": "Education",
-    "village": "સૂર્યગામ",
-    "amount": 300,
-    "date": "2025-03-17",
+    "name": "ઘોરિ જફરભાઇ ફકિરમહમદ",
+    "type": "ઝકાત",
+    "village": "તિલકવાડા",
+    "amount": 1000,
+    "date": "",
     "year": "2024-2025",
-    "receiptNo": "REC-2024-208"
+    "receiptNo": ""
   },
   {
-    "name": "નિલેશ દેસાઈ",
-    "type": "Education",
-    "village": "રામપુર",
-    "amount": 750,
-    "date": "2025-03-11",
+    "name": "મલેક યાકુબભાઇ ટપાલી",
+    "type": "ઝકાત",
+    "village": "પાન તલાવડી",
+    "amount": 5100,
+    "date": "",
     "year": "2024-2025",
-    "receiptNo": "REC-2024-211"
+    "receiptNo": ""
   },
   {
-    "name": "આયશાબેન ત્રિવેદી",
-    "type": "Zakat",
-    "village": "લીલાપુર",
-    "amount": 1500,
-    "date": "2025-02-27",
-    "year": "2024-2025",
-    "receiptNo": "REC-2024-207"
-  },
-  {
-    "name": "હિતેશબેન જોશી",
-    "type": "Education",
-    "village": "ટેકરીપુરા",
+    "name": "ખિદમત ગ્રુપ",
+    "type": "લિલ્લાહ",
+    "village": "નસવાડી",
     "amount": 2500,
-    "date": "2025-02-02",
+    "date": "",
     "year": "2024-2025",
-    "receiptNo": "REC-2024-209"
+    "receiptNo": ""
   },
   {
-    "name": "હિતેશભાઈ મન્સૂરી",
-    "type": "Corpus",
-    "village": "રામપુર",
-    "amount": 750,
-    "date": "2025-01-16",
+    "name": "રાઠોડ બાલાસાહેબ વોરાવારા",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 1001,
+    "date": "",
     "year": "2024-2025",
-    "receiptNo": "REC-2024-210"
+    "receiptNo": ""
   },
   {
-    "name": "ભાવેશબેન શાહ",
-    "type": "Zakat",
-    "village": "શિવપુર",
-    "amount": 750,
-    "date": "2025-01-07",
-    "year": "2024-2025",
-    "receiptNo": "REC-2024-213"
-  },
-  {
-    "name": "ભાવેશ શાહ",
-    "type": "Corpus",
-    "village": "મેવાસ",
-    "amount": 1500,
-    "date": "2025-01-07",
-    "year": "2024-2025",
-    "receiptNo": "REC-2024-226"
-  },
-  {
-    "name": "સુરેશ સોલંકી",
-    "type": "Zakat",
-    "village": "ટેકરીપુરા",
-    "amount": 300,
-    "date": "2024-12-26",
-    "year": "2024-2025",
-    "receiptNo": "REC-2024-205"
-  },
-  {
-    "name": "જયેશ ઠક્કર",
-    "type": "General",
-    "village": "નદીપુર",
+    "name": "રાઠોડ અલ્તાફખાન સરોફખાન",
+    "type": "ઝકાત",
+    "village": "સુરત",
     "amount": 1000,
-    "date": "2024-12-05",
+    "date": "",
     "year": "2024-2025",
-    "receiptNo": "REC-2024-201"
+    "receiptNo": ""
   },
   {
-    "name": "સુરેશ મન્સૂરી",
-    "type": "CSR",
-    "village": "મેવાસ",
-    "amount": 501,
-    "date": "2024-11-21",
-    "year": "2024-2025",
-    "receiptNo": "REC-2024-214"
-  },
-  {
-    "name": "નીતાભાઈ પરમાર",
-    "type": "Corpus",
-    "village": "સૂર્યગામ",
-    "amount": 1500,
-    "date": "2024-11-18",
-    "year": "2024-2025",
-    "receiptNo": "REC-2024-203"
-  },
-  {
-    "name": "કાજલભાઈ ઠક્કર",
-    "type": "Zakat",
-    "village": "ટેકરીપુરા",
-    "amount": 200,
-    "date": "2024-10-17",
-    "year": "2024-2025",
-    "receiptNo": "REC-2024-222"
-  },
-  {
-    "name": "અહેમદભાઈ ચૌહાણ",
-    "type": "Education",
-    "village": "મેવાસ",
-    "amount": 2000,
-    "date": "2024-10-09",
-    "year": "2024-2025",
-    "receiptNo": "REC-2024-225"
-  },
-  {
-    "name": "મનોજબેન મન્સૂરી",
-    "type": "Zakat",
-    "village": "શિવપુર",
+    "name": "મમા હ. ઝોહરાબીબી ઇકબલસાબ",
+    "type": "લિલ્લાહ",
+    "village": "વડોદરા",
     "amount": 500,
-    "date": "2024-10-04",
+    "date": "",
     "year": "2024-2025",
-    "receiptNo": "REC-2024-217"
+    "receiptNo": ""
   },
   {
-    "name": "નિલેશભાઈ ત્રિવેદી",
-    "type": "Education",
-    "village": "ટેકરીપુરા",
-    "amount": 5000,
-    "date": "2024-08-22",
+    "name": "રિઝવાના હાફિઝ રાના",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 500,
+    "date": "",
     "year": "2024-2025",
-    "receiptNo": "REC-2024-223"
+    "receiptNo": ""
   },
   {
-    "name": "અમિતબેન ચૌહાણ",
-    "type": "Corpus",
-    "village": "લીલાપુર",
-    "amount": 5000,
-    "date": "2024-08-14",
+    "name": "હાફિઝ ઇકબાલસાબ રાના",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 500,
+    "date": "",
     "year": "2024-2025",
-    "receiptNo": "REC-2024-204"
+    "receiptNo": ""
   },
   {
-    "name": "મનોજ ચૌહાણ",
-    "type": "General",
-    "village": "સૂર્યગામ",
-    "amount": 11000,
-    "date": "2024-08-14",
-    "year": "2024-2025",
-    "receiptNo": "REC-2024-206"
-  },
-  {
-    "name": "સુરેશ શાહ",
-    "type": "General",
-    "village": "ટેકરીપુરા",
+    "name": "ઘોરી ઉસમાનખાનજી",
+    "type": "ઝકાત",
+    "village": "જિરાલ",
     "amount": 1000,
-    "date": "2024-07-17",
+    "date": "",
     "year": "2024-2025",
-    "receiptNo": "REC-2024-215"
+    "receiptNo": ""
   },
   {
-    "name": "મનોજબેન ઘોરી",
-    "type": "Medical",
-    "village": "ઘાસવાડી",
-    "amount": 501,
-    "date": "2024-06-16",
+    "name": "ઠાકોરતોસિફ મહમદ અસરફખા",
+    "type": "ઝકાત",
+    "village": "વડિયા ટેકરા",
+    "amount": 2100,
+    "date": "",
     "year": "2024-2025",
-    "receiptNo": "REC-2024-224"
+    "receiptNo": ""
   },
   {
-    "name": "અહેમદબેન ઘોરી",
-    "type": "CSR",
-    "village": "લીલાપુર",
+    "name": "ઠાકોર સેનાઝબાનુ તોસિફ મહમદ",
+    "type": "ઝકાત",
+    "village": "વડિયા ટેકરા",
     "amount": 1000,
-    "date": "2024-06-12",
+    "date": "",
     "year": "2024-2025",
-    "receiptNo": "REC-2024-219"
+    "receiptNo": ""
   },
   {
-    "name": "હિના શેખ",
-    "type": "CSR",
-    "village": "લીલાપુર",
-    "amount": 11000,
-    "date": "2024-06-07",
+    "name": "બાબી ચિનુબાપુ અમિરમહમદ",
+    "type": "ઝકાત",
+    "village": "વડિયા ટેકરા",
+    "amount": 500,
+    "date": "",
     "year": "2024-2025",
-    "receiptNo": "REC-2024-216"
+    "receiptNo": ""
   },
   {
-    "name": "રાજેશભાઈ પરમાર",
-    "type": "CSR",
-    "village": "લીલાપુર",
+    "name": "દાયમા અસદ અહેમદ સહિદખાનજી",
+    "type": "ઝકાત",
+    "village": "રેંગન",
+    "amount": 2500,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "કડિવાલા આરિફભાઇ",
+    "type": "ઝકાત",
+    "village": "સાવલી",
+    "amount": 1000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "એહમદભાઇ રાણા",
+    "type": "ઝકાત",
+    "village": "નાપાડ",
+    "amount": 2500,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઠાકોર ઇમરાન સદ્દામહુસેન",
+    "type": "ઝકાત",
+    "village": "પાન તલાવડી",
+    "amount": 5000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઘાંચી મહેબુબભાઇ",
+    "type": "ઝકાત",
+    "village": "સાવલી",
+    "amount": 500,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઠાકોર આદિલ અખતર હુસેન",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 3000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લિમબહેન તરફ થી",
+    "type": "ઝકાત",
+    "village": "આફ્રીકા",
+    "amount": 15000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાણા રાજિંદ્રસિંહ વિજયસિંહ",
+    "type": "ઝકાત",
+    "village": "આમોદ",
+    "amount": 500,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "તાલુકદાર સરકાર",
+    "type": "ઝકાત",
+    "village": "આમોદ",
+    "amount": 500,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઘોરી આસિફ અસરફખાન",
+    "type": "ઝકાત",
+    "village": "તિલકવાડા",
     "amount": 1100,
-    "date": "2024-04-16",
+    "date": "",
     "year": "2024-2025",
-    "receiptNo": "REC-2024-202"
+    "receiptNo": ""
   },
   {
-    "name": "ધર્મેશબેન જોશી",
-    "type": "CSR",
-    "village": "લીલાપુર",
+    "name": "પઠાણ ઇકબાલભાઇ ડ્રિપવારા",
+    "type": "ઝકાત",
+    "village": "રાજપીપલા",
+    "amount": 1000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "સાયમા ઠાકોર",
+    "type": "ઝકાત",
+    "village": "મુમ્બઈ",
+    "amount": 5000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "પઠાણ સલીમભાઇ ફ્રુટ્વારા",
+    "type": "ઝકાત",
+    "village": "દેવલિયા",
+    "amount": 500,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "દિવાન યાસીનશા સલિમશા",
+    "type": "ઝકાત",
+    "village": "અલવા",
+    "amount": 2000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "ભટ્ટિ મક્સુદભાઇ",
+    "type": "લિલ્લાહ",
+    "village": "અગર",
+    "amount": 500,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાઠોડ યુનુસખાન અહેમદખાન",
+    "type": "ઝકાત",
+    "village": "વનમાલા",
+    "amount": 1000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "નકુમ જાઉદ્દિન",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 1000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લિમભાઇ",
+    "type": "ઝકાત",
+    "village": "પાન તલાવડી",
+    "amount": 3000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા તનવીરમહમદ નુરમહમદ",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 9000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા તનવીરમહમદ નુરમહમદ",
+    "type": "લિલ્લાહ",
+    "village": "વડોદરા",
+    "amount": 1000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "મેમણ વસિમભાઇ પ્રેસ",
+    "type": "ઝકાત",
+    "village": "તિલકવાડા",
+    "amount": 1000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લિમભાઇ",
+    "type": "ઝકાત",
+    "village": "વોરા",
+    "amount": 2000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "ખાન મહમદજુનેદ જલાલુદ્દિન",
+    "type": "ઝકાત",
+    "village": "પાન તલાવડી",
+    "amount": 2500,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચૌહાન તંવિરફાતમા અનસઅહેમદ",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 4000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લિમભાઇ",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 2000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચૌહાણ મસુદઅહેમદ નિયાઝઅહેમદ",
+    "type": "ઝકાત",
+    "village": "અગર",
+    "amount": 5000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "રિંકુભાઇ ફિરોજમહમદ",
+    "type": "ઝકાત",
+    "village": "કમસોલી",
+    "amount": 1000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "ખાન સમિરાબાનુ",
+    "type": "લિલ્લાહ",
+    "village": "કસુંદર",
+    "amount": 1000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચૌહાણ જફરુલ્લાખાન બાલાસાહેબ",
+    "type": "ઝકાત",
+    "village": "ધામસીયા",
+    "amount": 2500,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "શેખ જાવિદઅહેમદ નુર અહેમદ",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 5000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "હાઝિ યુનુસઅહેમદ યુસુફભાઇ",
+    "type": "ઝકાત",
+    "village": "સુરત",
+    "amount": 5000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઠાકોર કામિલ",
+    "type": "ઝકાત",
+    "village": "પાન તલાવડી",
+    "amount": 2000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઘોરી રોશનબીબી મહેમુદખા",
+    "type": "ઝકાત",
+    "village": "તિલકવાડા",
+    "amount": 3000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઘોરી રહેમતુલ્લાખાન મ.હનિફ",
+    "type": "ઝકાત",
+    "village": "તિલકવાડા",
+    "amount": 2500,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "મલેક સોયબમહમદ ઉમેદખાન",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 1500,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "મલેક એઝાઝભાઇ નિશારભાઇ",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 1000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "મલેક સાબીરહુસેન રસુલખા",
+    "type": "ઝકાત",
+    "village": "દેવલિયા",
+    "amount": 50000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા ઇમરાનભાઈ અસરફખાન",
+    "type": "ઝકાત",
+    "village": "રેંગણ",
+    "amount": 50000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચૌહાણ જાઉદ્દિન બાલાસાબ",
+    "type": "લિલ્લાહ",
+    "village": "ધામસીયા",
+    "amount": 2500,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચૌહાણ શાહનવાઝ મોહબતખાન",
+    "type": "ઝકાત",
+    "village": "સંદુલા",
+    "amount": 1000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા રિયાઝભાઇ",
+    "type": "ઝકાત",
+    "village": "ઉચાદ",
+    "amount": 2000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા જકિરહુસેન મસુભા",
+    "type": "ઝકાત",
+    "village": "ગભાના",
+    "amount": 2500,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસલિમભાઇ",
+    "type": "ઝકાત",
+    "village": "ઉચાદ",
+    "amount": 3000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાઠોડ સાજિદ ઉસ્માનખાન",
+    "type": "ઝકાત",
+    "village": "ઉચાદ",
+    "amount": 1785,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચૌહાણ અલાઉદ્દિન અમિરુદ્દિન",
+    "type": "ઝકાત",
+    "village": "સંદુલા",
+    "amount": 1000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "કુરેશી સિરાજભાઇ સિકંદરભાઇ",
+    "type": "ઝકાત",
+    "village": "ચનવાડા",
+    "amount": 1000,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચૌહણ ઇમતિયાભાઇ બાલાસાહેબ",
+    "type": "ઝકાત",
+    "village": "વિધ્યાનગર",
+    "amount": 2100,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાઠોડ એડ.નિયાઝહુસેન મુનિરસાબ",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 1700,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લિમબહેન તરફ થી",
+    "type": "ઝકાત",
+    "village": "દેવલિયા",
+    "amount": 500,
+    "date": "",
+    "year": "2024-2025",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લિમ ભાઈ",
+    "type": "ઝકાત",
+    "village": "આમોદ",
+    "amount": 143800,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લિમ ભાઈ(મરહુ મોના ઈશાલે સવાબ માટે)",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 5000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા મહમદસીદીક હમીદખાન",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 1000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ધોરી અબ્દુલ રશીદ શેરમહમદખાનજી",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 5000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઘોરી અબ્દુલભાઈ બચુભાઈ",
+    "type": "ઝકાત",
+    "village": "પાનતલાવડી",
+    "amount": 5000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાઠોડ બાબાસાહેબ મહમદખાનજી",
+    "type": "ઝકાત",
+    "village": "બિહોરા",
+    "amount": 2500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ખાન સરવર અલી વાહિદખાન",
+    "type": "ઝકાત",
+    "village": "કસુંદર",
+    "amount": 2000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાઠોડ બાલાસાબ મનવરખાન",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 1000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાજ નોમાન મોલના ઈશાક",
+    "type": "લીલાહ",
+    "village": "વાઘોડિયા",
+    "amount": 2500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાજ ઈબ્રાહિમ ભાઈ",
+    "type": "ઝકાત",
+    "village": "આમોદ",
+    "amount": 135500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "સૈયદ ડૉ. ખુર્શીદહુસૈન બાવા",
+    "type": "ઝકાત",
+    "village": "મુંબઈ",
+    "amount": 5000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા અસદ સહિદખાન",
+    "type": "લીલાહ",
+    "village": "વડોદરા",
+    "amount": 2500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા ઝાકીર હુસેન મસુભાઈ",
+    "type": "ઝકાત",
+    "village": "ગભાના",
+    "amount": 2500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઠાકોર ફુરકાનમહંમદ આઈ",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 2500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાઠોડ મોઈનખા ઈકબાલખા",
+    "type": "ઝકાત",
+    "village": "તિલકવાડા",
+    "amount": 1500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "મલેક યાકુબ ટપાલી",
+    "type": "ઝકાત",
+    "village": "પાનતલાવડી",
+    "amount": 2500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઘોરી જાફરુલ્લાખાન ફકીરમહમદ",
+    "type": "ઝકાત",
+    "village": "તિલકવાડા",
+    "amount": 1000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઘોરી ફઝલભાઈ હમીદખા",
+    "type": "ઝકાત",
+    "village": "ફૂલવાડી",
+    "amount": 500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ખાન ઈકરામ અલી સાબીરમહમદ",
+    "type": "ઝકાત",
+    "village": "સુલતાનપુરા",
+    "amount": 2500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ખાન મહંમદ જુનેદ જલાલુદ્દીન",
+    "type": "ઝકાત",
+    "village": "પાનતલાવડી",
+    "amount": 5000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઠાકોર સાઈમા",
+    "type": "ઝકાત",
+    "village": "મુંબઈ",
+    "amount": 5000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લિમ બહેન",
+    "type": "લીલાહ",
+    "village": "દેવલીયા",
+    "amount": 1000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચોહાણ મસુદ એહમદ નિયાજ એહમદ",
+    "type": "ઝકાત",
+    "village": "અગર",
+    "amount": 5000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાઠોડ મુન્નાભાઈ ( બાબુલ વાળા)",
+    "type": "ઝકાત",
+    "village": "ઉચાદ",
+    "amount": 5000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચોહાણ સાજીદખાન સફી મહમદ",
+    "type": "ઝકાત",
+    "village": "સંદુલા",
+    "amount": 2500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લિમ ભાઈ",
+    "type": "ઝકાત",
+    "village": "ઉચાદ",
+    "amount": 5000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા મોહસીનખા મનવરખા",
+    "type": "ઝકાત",
+    "village": "ઉચાદ",
+    "amount": 2100,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમ બ્બીર્ હુસેન ફિરોઝખા",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 3000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ખાન સલમાનખાન",
+    "type": "ઝકાત",
+    "village": "કસુંદર",
+    "amount": 10000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લિમ ભાઈ",
+    "type": "ઝકાત",
+    "village": "ભરૂચ",
+    "amount": 120000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા સમીરમહમદ નૂર મહમદ",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 3000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઘાંચી મહેબુબભાઇ સુલેમાન",
+    "type": "ઝકાત",
+    "village": "સાવલી",
     "amount": 1100,
-    "date": "2024-04-07",
-    "year": "2024-2025",
-    "receiptNo": "REC-2024-221"
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
   },
   {
-    "name": "રુકસાના મન્સૂરી",
-    "type": "Zakat",
-    "village": "ટેકરીપુરા",
-    "amount": 11000,
-    "date": "2024-04-02",
-    "year": "2024-2025",
-    "receiptNo": "REC-2024-218"
+    "name": "ઘોરી અફજલમહમદ ફકીર મહમદ",
+    "type": "ઝકાત",
+    "village": "તિલકવાડા",
+    "amount": 2500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
   },
   {
-    "name": "યુસુફબેન ત્રિવેદી",
-    "type": "Zakat",
-    "village": "લીલાપુર",
-    "amount": 501,
-    "date": "2024-04-01",
-    "year": "2024-2025",
-    "receiptNo": "REC-2024-220"
+    "name": "દાયમા તનવીરમહમદ નૂર મહમદ",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 2500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા રિઝવાન મહમદ નૂર મહંમદ",
+    "type": "લીલાહ",
+    "village": "વડોદરા",
+    "amount": 5500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લિમ ભાઈ",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 4000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાણા હાફિઝ ભાઈ (મરહુમોના ઈશાલે સવાબ માટે)",
+    "type": "લીલાહ",
+    "village": "વડોદરા",
+    "amount": 500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાણા હાફિઝ ભાઈ",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 1000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "મલેક મોઈન ખાન (એડવોકેટ)",
+    "type": "ઝકાત",
+    "village": "કામસોલી",
+    "amount": 2500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ખાન સમીરાબાનુ સમીરખાન",
+    "type": "લીલાહ",
+    "village": "કસુંદર",
+    "amount": 1000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચોહાણ જહાંગીર મહંમદ મહંમદ ખાનજી",
+    "type": "ઝકાત",
+    "village": "સંદુલા",
+    "amount": 2500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "મેમણ વસીમ ( પ્રેસ)",
+    "type": "ઝકાત",
+    "village": "તિલકવાડા",
+    "amount": 1000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઠાકોર લિયાકત ખાનજી",
+    "type": "ઝકાત",
+    "village": "પાનતલાવડી",
+    "amount": 1500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ધોરી ઉસ્માન ખાનજી (ફોજી)",
+    "type": "લીલાહ",
+    "village": "જીરાલ",
+    "amount": 1500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "કડીવાલા આરીફ ભાઈ નૂર ભાઈ",
+    "type": "ઝકાત",
+    "village": "સાવલી",
+    "amount": 1000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "રિંકુ ભાઈ ફિરોજ ભાઈ",
+    "type": "ઝકાત",
+    "village": "અમદાવાદ",
+    "amount": 1000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "સોહાબાનું રિંકુ ભાઈ",
+    "type": "ઝકાત",
+    "village": "કેનેડા",
+    "amount": 2000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "શેખ જાવીદ અહેમદ નૂર અહેમદ",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 5000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા ડિગ્ગુભાઈ બાલાસાબ",
+    "type": "ઝકાત",
+    "village": "સાવલી",
+    "amount": 5000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "બાબુભાઈ મુજફરખાન",
+    "type": "લીલાહ",
+    "village": "નામલપુર",
+    "amount": 1500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાઠોડ મહંમદ અફઝલ મલંગસાબ",
+    "type": "લીલાહ",
+    "village": "ચુડેશ્વર",
+    "amount": 500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઘોરી અબ્દુલ ભાઈ",
+    "type": "ઝકાત",
+    "village": "ચુડેશ્વર",
+    "amount": 1100,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "પઠાણ મલંગભાઈ (ફ્રૂટવાળા)",
+    "type": "ઝકાત",
+    "village": "દેવલીયા",
+    "amount": 2500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઘોરી લાલા ભાઈ",
+    "type": "ઝકાત",
+    "village": "રામપરી",
+    "amount": 1100,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "દાયમા સામુ ભાઈ સુલતાન ભાઈ",
+    "type": "ઝકાત",
+    "village": "દેવલીયા",
+    "amount": 5000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઠાકોર તોસીફમહંમદ અશરફખા (એડવોકેટ)",
+    "type": "ઝકાત",
+    "village": "વા.ટેકરા",
+    "amount": 2500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઘોરી રાજાભાઈ રહેમતુલ્લાહ",
+    "type": "ઝકાત",
+    "village": "તિલકવાડા",
+    "amount": 3000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાઠોડ એહમદ ભાઈ ફતેસિંગ",
+    "type": "ઝકાત",
+    "village": "નાપાડ",
+    "amount": 2501,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાઠોડ સાજીદ હુસેન ઉસ્માન ખાન",
+    "type": "ઝકાત",
+    "village": "ઉચાડ",
+    "amount": 1500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ઘોરી હારુન ભાઈ નેમત ખા",
+    "type": "ઝકાત",
+    "village": "ચુડેશ્વર",
+    "amount": 1100,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લિમ ભાઈ",
+    "type": "ઝકાત",
+    "village": "ચુડેશ્વર",
+    "amount": 2500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "પઠાણ ઈકબાલભાઈ ડ્રીપવાળા",
+    "type": "ઝકાત",
+    "village": "રાજપીપલા",
+    "amount": 2000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લિમ ભાઈ",
+    "type": "ઝકાત",
+    "village": "વોરા",
+    "amount": 2000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "મલેક મકબૂલભાઈ",
+    "type": "ઝકાત",
+    "village": "તિલકવાડા",
+    "amount": 1000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચોહાણ ઝહિરુ દિન અમીરુદ્દીન",
+    "type": "ઝકાત",
+    "village": "સંદુલા",
+    "amount": 2500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લિમ ભાઈ",
+    "type": "ઝકાત",
+    "village": "કામસોલી",
+    "amount": 1000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "ચોહાણ જાફરુલ્લાહ ખાન બાલાસાબ",
+    "type": "ઝકાત",
+    "village": "ધામસીયા",
+    "amount": 2500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લિમ ભાઈ",
+    "type": "ઝકાત",
+    "village": "સંદુલા",
+    "amount": 500,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "રાઠોડ નિયાજ મહંમદ મુનીરસાબ (એડવોકેટ)",
+    "type": "ઝકાત",
+    "village": "વડોદરા",
+    "amount": 2000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
+  },
+  {
+    "name": "એક મુસ્લિમ ભાઈ",
+    "type": "ઝકાત",
+    "village": "રામપુરી",
+    "amount": 1000,
+    "date": "",
+    "year": "2025-2026",
+    "receiptNo": ""
   }
 ]

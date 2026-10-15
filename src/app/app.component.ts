@@ -26,7 +26,8 @@ export class AppComponent {
   toast = signal(''); word = signal('આશા'); barsOn = signal(false);
 
   years = computed(() => [...new Set([...(this.t()['years'] || []), ...this.ds.donors().map(d => d.year), ...this.ds.expenses().map(e => e.year)].filter(Boolean))].sort().reverse());
-  dName = (d: Donor) => shownName(d, this.privacy().shortNames, this.privacy().anonymousLabel);
+  // dName = (d: Donor) => shownName(d, this.privacy().shortNames, this.privacy().anonymousLabel);
+  dName = (d: Donor) => d.name;
   dVillage = (d: Donor) => d.anonymous ? '—' : (d.village || '');
 
   dInYear = computed(() => this.ds.donors().filter(d => this.dYear() === 'all' || d.year === this.dYear()));

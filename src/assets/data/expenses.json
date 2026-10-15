@@ -1,50 +1,378 @@
 [
   {
     "category": "Medical",
-    "description": "મોબાઇલ બાળરોગ કેમ્પ માટે દવાઓ",
-    "amount": 3500,
-    "date": "2026-10-04",
-    "year": "2026-2027",
-    "voucherNo": "VOU-2026-01"
+    "description": "એક જરૂરીયાત મંદ હોસ્પિટલ",
+    "amount": 12000,
+    "date": "",
+    "year": "2023-2024",
+    "voucherNo": "VOU-2023-01"
   },
   {
     "category": "Education",
-    "description": "કોડિંગ લેબ માટે કમ્પ્યુટર",
-    "amount": 6200,
-    "date": "2026-09-30",
-    "year": "2026-2027",
-    "voucherNo": "VOU-2026-02"
+    "description": "વિધ્યાર્થીને ફિ પેટે",
+    "amount": 13000,
+    "date": "",
+    "year": "2023-2024",
+    "voucherNo": "VOU-2023-02"
   },
   {
-    "category": "Infrastructure",
-    "description": "સૌર બોરવેલ પાણી સ્થાપન",
-    "amount": 8500,
-    "date": "2026-09-18",
-    "year": "2026-2027",
-    "voucherNo": "VOU-2026-03"
+    "category": "General Welfare",
+    "description": "એક જરૂરીયાત મંદ ગૌચરીયા",
+    "amount": 3850,
+    "date": "",
+    "year": "2023-2024",
+    "voucherNo": "VOU-2023-03"
   },
   {
-    "category": "Administrative",
-    "description": "વાર્ષિક ઓડિટ પાલન",
-    "amount": 1400,
-    "date": "2026-07-10",
-    "year": "2026-2027",
-    "voucherNo": "VOU-2026-04"
+    "category": "Education",
+    "description": "વિધ્યાર્થીને ફિ પેટે (LLB ચુડેશ્વર)",
+    "amount": 18000,
+    "date": "",
+    "year": "2023-2024",
+    "voucherNo": "VOU-2023-04"
+  },
+  {
+    "category": "Marriage Assistance",
+    "description": "લગ્નમા મદદ (૨ છોકરીઓ માટે)",
+    "amount": 15500,
+    "date": "",
+    "year": "2023-2024",
+    "voucherNo": "VOU-2023-05"
+  },
+  {
+    "category": "Education",
+    "description": "વિધ્યાર્થીને ફિ પેટે (વઘરાલી)",
+    "amount": 5000,
+    "date": "",
+    "year": "2023-2024",
+    "voucherNo": "VOU-2023-06"
   },
   {
     "category": "Medical",
-    "description": "કટોકટી સર્જરી સહાય",
+    "description": "કેંસર પિદિટ દર્દી ની મદદ (રેંગણ)",
+    "amount": 10000,
+    "date": "",
+    "year": "2023-2024",
+    "voucherNo": "VOU-2023-07"
+  },
+  {
+    "category": "Administrative",
+    "description": "સ્ટેસ્નરી ખર્ચ",
+    "amount": 1500,
+    "date": "",
+    "year": "2023-2024",
+    "voucherNo": "VOU-2023-08"
+  },
+  {
+    "category": "Marriage Assistance",
+    "description": "લગ્નમા મદદ (૧ છોકરી માટે ઉચાદ)",
+    "amount": 10000,
+    "date": "",
+    "year": "2023-2024",
+    "voucherNo": "VOU-2023-09"
+  },
+  {
+    "category": "Education",
+    "description": "વિધ્યાર્થીને ફિ પેટે (પારુલ યુ.ની.)",
+    "amount": 20000,
+    "date": "",
+    "year": "2023-2024",
+    "voucherNo": "VOU-2023-10"
+  },
+  {
+    "category": "Administrative",
+    "description": "ચેરેટી કમિશનર લોક ફાળો",
+    "amount": 8186,
+    "date": "",
+    "year": "2023-2024",
+    "voucherNo": "VOU-2023-11"
+  },
+  {
+    "category": "Administrative",
+    "description": "ઓડીટ ફી",
+    "amount": 7500,
+    "date": "",
+    "year": "2023-2024",
+    "voucherNo": "VOU-2023-12"
+  },
+  {
+    "category": "General Welfare",
+    "description": "એક ઇમામ સાબને મદદ",
+    "amount": 10000,
+    "date": "",
+    "year": "2023-2024",
+    "voucherNo": "VOU-2023-13"
+  },
+  {
+    "category": "Administrative",
+    "description": "સ્ટેસ્નરી ખર્ચ",
+    "amount": 1500,
+    "date": "",
+    "year": "2023-2024",
+    "voucherNo": "VOU-2023-14"
+  },
+  {
+    "category": "Marriage Assistance",
+    "description": "લગ્નમા મદદ (૧ છોકરી માટે પાન તલાવડી)",
+    "amount": 7500,
+    "date": "",
+    "year": "2023-2024",
+    "voucherNo": "VOU-2023-15"
+  },
+  {
+    "category": "Marriage Assistance",
+    "description": "લગ્નમા મદદ (૧ છોકરી માટે ચનવાડા)",
+    "amount": 15000,
+    "date": "",
+    "year": "2023-2024",
+    "voucherNo": "VOU-2023-16"
+  },
+  {
+    "category": "Marriage Assistance",
+    "description": "લગ્નમા મદદ (૧ છોકરી માટે રામપુરી )",
+    "amount": 10000,
+    "date": "",
+    "year": "2023-2024",
+    "voucherNo": "VOU-2023-17"
+  },
+  {
+    "category": "Marriage Assistance",
+    "description": "સમુહ નિકાહમા મદદ (નળગામ)",
+    "amount": 10000,
+    "date": "",
+    "year": "2023-2024",
+    "voucherNo": "VOU-2023-18"
+  },
+  {
+    "category": "General Welfare",
+    "description": "રામપુરી દરગાહ માટે",
+    "amount": 11000,
+    "date": "",
+    "year": "2024-2025",
+    "voucherNo": "VOU-2024-01"
+  },
+  {
+    "category": "Medical",
+    "description": "એક કેંસર પીદિત માટે (નસવાડી)",
+    "amount": 5000,
+    "date": "",
+    "year": "2024-2025",
+    "voucherNo": "VOU-2024-02"
+  },
+  {
+    "category": "Marriage Assistance",
+    "description": "સમુહ નિકાહમા જવા માટે",
     "amount": 4000,
-    "date": "2025-10-20",
+    "date": "",
+    "year": "2024-2025",
+    "voucherNo": "VOU-2024-03"
+  },
+  {
+    "category": "General Welfare",
+    "description": "ગરાસિયા વેલ્ફેર ટ્રસ્ટ્ને આપ્યા",
+    "amount": 25000,
+    "date": "",
+    "year": "2024-2025",
+    "voucherNo": "VOU-2024-04"
+  },
+  {
+    "category": "Education",
+    "description": "LLB વિધ્યાર્થીને ફિ પેટે",
+    "amount": 18800,
+    "date": "",
+    "year": "2024-2025",
+    "voucherNo": "VOU-2024-05"
+  },
+  {
+    "category": "Marriage Assistance",
+    "description": "એક દિકરીના લગ્ન માટે",
+    "amount": 5000,
+    "date": "",
+    "year": "2024-2025",
+    "voucherNo": "VOU-2024-06"
+  },
+  {
+    "category": "Medical",
+    "description": "એક દર્દીને મદદ (રાજપીપલા)",
+    "amount": 5000,
+    "date": "",
+    "year": "2024-2025",
+    "voucherNo": "VOU-2024-07"
+  },
+  {
+    "category": "Marriage Assistance",
+    "description": "એક દિકરીના લગ્ન માટે (અગર)",
+    "amount": 5000,
+    "date": "",
+    "year": "2024-2025",
+    "voucherNo": "VOU-2024-08"
+  },
+  {
+    "category": "Marriage Assistance",
+    "description": "એક દિકરીના લગ્ન માટે (ઉતરાજ)",
+    "amount": 5000,
+    "date": "",
+    "year": "2024-2025",
+    "voucherNo": "VOU-2024-09"
+  },
+  {
+    "category": "Medical",
+    "description": "એક કેંસર પીદિત માટે (નવસારી)",
+    "amount": 5000,
+    "date": "",
+    "year": "2024-2025",
+    "voucherNo": "VOU-2024-10"
+  },
+  {
+    "category": "General Welfare",
+    "description": "એક બહેનને મદદ (રાજપીપલા)",
+    "amount": 5000,
+    "date": "",
+    "year": "2024-2025",
+    "voucherNo": "VOU-2024-11"
+  },
+  {
+    "category": "Marriage Assistance",
+    "description": "સમુહ નિકાહ નરગામ ખાતે",
+    "amount": 100000,
+    "date": "",
+    "year": "2024-2025",
+    "voucherNo": "VOU-2024-12"
+  },
+  {
+    "category": "Education",
+    "description": "વિદ્યાર્થીની ફી પેટે ચેક દ્વારા ચૂકવ્યા",
+    "amount": 143800,
+    "date": "",
+    "year": "2025-2026",
+    "voucherNo": "VOU-2025-01"
+  },
+  {
+    "category": "Administrative",
+    "description": "બેનર બનાવ્યું તેના",
+    "amount": 1250,
+    "date": "",
+    "year": "2025-2026",
+    "voucherNo": "VOU-2025-02"
+  },
+  {
+    "category": "Administrative",
+    "description": "અગ્રીમેન્ટ કરાર",
+    "amount": 800,
+    "date": "",
+    "year": "2025-2026",
+    "voucherNo": "VOU-2025-03"
+  },
+  {
+    "category": "Medical",
+    "description": "એક દર્દીને પાનતલાવડી આપ્યા",
+    "amount": 70000,
+    "date": "",
+    "year": "2025-2026",
+    "voucherNo": "VOU-2025-04"
+  },
+  {
+    "category": "General Welfare",
+    "description": "એક આર્થિક રીતે મદદ કરી વજેરિયા",
+    "amount": 1500,
+    "date": "",
+    "year": "2025-2026",
+    "voucherNo": "VOU-2025-05"
+  },
+  {
+    "category": "General Welfare",
+    "description": "ઇમામસાબ ને આપ્યા અગર",
+    "amount": 10000,
+    "date": "",
+    "year": "2025-2026",
+    "voucherNo": "VOU-2025-06"
+  },
+  {
+    "category": "General Welfare",
+    "description": "એક બહેનને આપ્યા દેવલીયા",
+    "amount": 5000,
+    "date": "",
+    "year": "2025-2026",
+    "voucherNo": "VOU-2025-07"
+  },
+  {
+    "category": "Education",
+    "description": "એક વિદ્યાર્થી ની ફી ભરવા નમારીયા",
+    "amount": 5000,
+    "date": "",
+    "year": "2025-2026",
+    "voucherNo": "VOU-2025-08"
+  },
+  {
+    "category": "General Welfare",
+    "description": "અગર મદ્રેસા આપ્યા",
+    "amount": 5000,
+    "date": "",
+    "year": "2025-2026",
+    "voucherNo": "VOU-2025-09"
+  },
+  {
+    "category": "General Welfare",
+    "description": "આર્થીક મદદ કરી દેવલીયા",
+    "amount": 15000,
+    "date": "",
+    "year": "2025-2026",
+    "voucherNo": "VOU-2025-10"
+  },
+  {
+    "category": "Education",
+    "description": "એક વિદ્યાર્થી ફ્રી ભરવા ચુડેશ્વર",
+    "amount": 5000,
+    "date": "",
     "year": "2025-2026",
     "voucherNo": "VOU-2025-11"
   },
   {
-    "category": "Education",
-    "description": "પુસ્તકો અને ગણવેશ વિતરણ",
-    "amount": 2500,
-    "date": "2024-11-15",
-    "year": "2024-2025",
-    "voucherNo": "VOU-2024-21"
+    "category": "Medical",
+    "description": "એક દર્દીને હોસ્પિટલમાં બિલ ભરવા વડોદરા",
+    "amount": 10000,
+    "date": "",
+    "year": "2025-2026",
+    "voucherNo": "VOU-2025-12"
+  },
+  {
+    "category": "Administrative",
+    "description": "કડુજી એન્ડ કંપની ને કીટ બનાવી તેના",
+    "amount": 135500,
+    "date": "",
+    "year": "2025-2026",
+    "voucherNo": "VOU-2025-13"
+  },
+  {
+    "category": "Marriage Assistance",
+    "description": "સમુહ નિકાહ નળગામ બે જોડાના",
+    "amount": 118500,
+    "date": "",
+    "year": "2025-2026",
+    "voucherNo": "VOU-2025-14"
+  },
+  {
+    "category": "General Welfare",
+    "description": "શહેરી અને ઈફ્તારી ઈમદાદ અગર મદરેસામાં",
+    "amount": 147270,
+    "date": "",
+    "year": "2025-2026",
+    "voucherNo": "VOU-2025-15"
+  },
+  {
+    "category": "General Welfare",
+    "description": "આર્થિક સહાય આપી",
+    "amount": 2000,
+    "date": "",
+    "year": "2025-2026",
+    "voucherNo": "VOU-2025-16"
+  },
+  {
+    "category": "Medical",
+    "description": "એક કેન્સર ગ્રસ્ત દર્દીને મદદ કરી ભીમપુરા",
+    "amount": 5000,
+    "date": "",
+    "year": "2025-2026",
+    "voucherNo": "VOU-2025-17"
   }
 ]

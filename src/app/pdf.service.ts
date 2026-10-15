@@ -22,7 +22,7 @@ export class PdfService {
     const T = o.trust;
     const reg = [T['regNo'] && 'નોંધણી નં.: ' + T['regNo'], T['panNo'] && 'PAN: ' + T['panNo'], T['reg80G'] && '80G: ' + T['reg80G'], T['est'] && 'સ્થાપના: ' + T['est']].filter(Boolean);
     const contact = [T['address'], T['phone'], T['email'], T['website']].filter(Boolean);
-    const sg: any[] = T['signatories']?.length ? T['signatories'] : [{ role: 'ખજાનચી' }, { role: 'પ્રમુખ' }];
+    const sg: any[] = T['signatories']?.length ? T['signatories'] : [{ role: 'સેક્રેટરી' }, { role: 'પ્રમુખ' }];
     const sgHtml = sg.map((g, i) => `<div><div class="im">${sigs[i] ? `<img src="${sigs[i]}">` : ''}</div><div class="ln"><b>${e(g.name || '')}</b>${g.name ? '<br>' : ''}${e(g.role || '')}</div></div>`).join('');
     w.document.write(`<!DOCTYPE html><html lang="gu"><head><meta charset="UTF-8"><title>${e(o.title)}</title>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Gujarati:wght@400;700&display=swap" rel="stylesheet">
